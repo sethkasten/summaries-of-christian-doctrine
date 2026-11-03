@@ -33,7 +33,7 @@ PDF pp. 1–2 are Google's digitization notices. The book opens with the title p
 
 - **54 collects are in TLHy.** Each is printed as *Revised TLHy*, with its changes listed. They include [10], which TLHy prints at Quinquagesima and which is restored here to the Sunday after New Year, and Maundy Thursday, where TLHy's collect ([33]) proves to be a free adaptation of Dietrich's [32].
 - **26 collects are not in TLHy.** Each is given in a *New translation* in TLHy's idiom. Among them is Dietrich's own Quinquagesima collect [23].
-- **TLHy's other collects**, which do not come from Dietrich, are given in Appendix A, so that every TLHy day can be found.
+- **TLHy's other collects**, which do not come from Dietrich, are given in Appendix A, so that every TLHy day can be found. With them, for reference, are TLHy's own texts of [24] and [33] (Dietrich's [10] and [32]) and the harvest collect [77], so that Appendix A holds every collect Stratman marks (H).
 - **The four collects Stratman marks (ELH)**, [73], [75], [76] and [78], are given in Appendix B with their origins and a version in TLHy's idiom. Two of them, [75] and [78], prove to be in TLHy after all, in its second series of collects.
 - The front matter (title page and dedicatory letter) precedes Part I, and Part III gives the two prayers appended at the end of the book.
 
@@ -158,6 +158,7 @@ Stratman's modern versions are compared with the German in Appendix C.
 | [21] | [Septuagesima](#21-septuagesima) | p. 69 | Revised TLHy |
 | [22] | [Sexagesima](#22-sexagesima) | p. 72 | Revised TLHy |
 | [23] | [Quinquagesima](#23-quinquagesima) | pp. 75–76 | New translation |
+| [24] | [Quinquagesima](#24-quinquagesima) (TLHy) | — | TLHy's text of Dietrich's [10], unrevised (Appendix A) |
 | | *Lent and Holy Week* | | |
 | [25] | [First Sunday in Lent (Invocavit)](#25-first-sunday-in-lent-invocavit) | p. 79 | Revised TLHy |
 | [26] | [Second Sunday in Lent (Reminiscere)](#26-second-sunday-in-lent-reminiscere) | p. 82 | Revised TLHy |
@@ -167,6 +168,7 @@ Stratman's modern versions are compared with the German in Appendix C.
 | [30] | [Palm Sunday](#30-palm-sunday) | pp. 95–96 | New translation |
 | [31] | [Palm Sunday](#31-palm-sunday) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
 | [32] | [Maundy Thursday](#32-maundy-thursday) | p. 100 | Revised TLHy |
+| [33] | [Maundy Thursday](#33-maundy-thursday) (TLHy) | — | TLHy's adaptation of [32], unrevised (Appendix A) |
 | | *Easter and Ascension* | | |
 | [34] | [Easter Day](#34-easter-day) | p. 103 | Revised TLHy |
 | [35] | [Easter Monday](#35-easter-monday) | p. 106 | Revised TLHy |
@@ -213,6 +215,7 @@ Stratman's modern versions are compared with the German in Appendix C.
 | [74] | [Day of Humiliation and Prayer](#74-day-of-humiliation-and-prayer) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
 | [75] | [Day of Humiliation and Prayer, second collect](#75-day-of-humiliation-and-prayer-second-collect) (ELH; TLHy second series) | — | Not Dietrich; TLHy's text (Appendix B) |
 | [76] | [Mission Festival](#76-mission-festival) (ELH) | — | Not Dietrich; new version in TLHy's idiom (Appendix B) |
+| [77] | [The Festival of Harvest](#77-the-festival-of-harvest) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
 | [78] | [Day of General or Special Thanksgiving](#78-day-of-general-or-special-thanksgiving) (ELH; TLHy second series) | — | Not Dietrich; TLHy's text, corrected (Appendix B) |
 | | **Part II. Sanctorale** | | |
 | | *November and December* | | |
@@ -241,7 +244,7 @@ Stratman's modern versions are compared with the German in Appendix C.
 | [98] | [Sts. Simon and Jude, Apostles (October 28)](#98-sts-simon-and-jude-apostles-october-28) | p. 296 | New translation |
 | [99] | [Feast of All Saints](#99-feast-of-all-saints) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
 
-"Revised TLHy" marks a TLHy collect corrected against the German; "New translation" marks a Dietrich collect that TLHy lacks. TLHy's Quinquagesima collect (Stratman's [24]) is [10], and its Maundy Thursday collect ([33]) is revised under [32]. "(ELH)" marks the four collects that Stratman assigns to ELH alone (Appendix B).
+"Revised TLHy" marks a TLHy collect corrected against the German; "New translation" marks a Dietrich collect that TLHy lacks. TLHy's Quinquagesima collect (Stratman's [24]) is [10], and its Maundy Thursday collect ([33]) is revised under [32]; both are also given unrevised in Appendix A. "(TLHy)" marks the collects that Stratman marks (H), all of which are in Appendix A, and "(ELH)" the four that he assigns to ELH alone (Appendix B). Every number in Stratman, [1] to [99], is listed.
 
 ---
 
@@ -561,7 +564,7 @@ St. Stephen's Day, which the *Summaria* prints after Christmas, is given with th
 
 **Dietrich's heading (PDF p. 40):** *Am Sontag zwischē dem Newen jar vnd Obersten/wie Christus am Jordan von Johanne ist getauffet worden/Matth. 3.* [On the Sunday between New Year and Epiphany: how Christ was baptized by John at the Jordan. Matthew 3.] *Oberster* (Tag) is Dietrich's name for Epiphany.
 
-**Assignment.** TLHy prints this collect at Quinquagesima. It is restored here to the Sunday after New Year, which TLHy calls the Second Sunday of Christmas, and Quinquagesima receives Dietrich's own collect [23]. TLHy followed the Dano-Norwegian pericopes, in which Quinquagesima (*Fastelavn*) carries the Baptism of Christ, Matthew 3:13–17; in the German pericopes Dietrich follows, Quinquagesima has Luke 18:31–43, and the Baptism falls on the Sunday after New Year. TLHy's own collect for the Second Sunday of Christmas is not Dietrich's (Appendix A, [11]).
+**Assignment.** TLHy prints this collect at Quinquagesima. It is restored here to the Sunday after New Year, which TLHy calls the Second Sunday of Christmas, and Quinquagesima receives Dietrich's own collect [23]. TLHy followed the Dano-Norwegian pericopes, in which Quinquagesima (*Fastelavn*) carries the Baptism of Christ, Matthew 3:13–17; in the German pericopes Dietrich follows, Quinquagesima has Luke 18:31–43, and the Baptism falls on the Sunday after New Year. TLHy's own collect for the Second Sunday of Christmas is not Dietrich's (Appendix A, [11]). TLHy's unrevised text of this prayer, Stratman's [24], is given in Appendix A.
 
 **German (PDF pp. 42–43)**
 
@@ -959,7 +962,7 @@ The young household folk who are not yet in the estate of marriage should direct
 
 **Dietrich's heading (PDF p. 96):** *Von dem Abendmal des Herren 1. Cor. 11.* [Of the Lord's Supper. 1 Corinthians 11.]
 
-**Relation to TLHy.** TLHy's Maundy Thursday collect (Stratman's [33], which he marks as TLHy's alone) is a free adaptation of this prayer, readdressed to Christ: its thanksgiving for the sacrament, "that we may not receive this gift unworthily," the confession of sins, faith in forgiveness and growth "day by day … in faith and love, until we obtain eternal salvation" all come from Dietrich. It is therefore revised here against Dietrich's German, and the revision serves as the English of [32].
+**Relation to TLHy.** TLHy's Maundy Thursday collect (Stratman's [33], which he marks as TLHy's alone) is a free adaptation of this prayer, readdressed to Christ: its thanksgiving for the sacrament, "that we may not receive this gift unworthily," the confession of sins, faith in forgiveness and growth "day by day … in faith and love, until we obtain eternal salvation" all come from Dietrich. It is therefore revised here against Dietrich's German, and the revision serves as the English of [32]. TLHy's unrevised text is given in Appendix A, [33].
 
 **German (PDF p. 100)**
 
@@ -2392,9 +2395,11 @@ After Dietrich's address to the reader (pp. 297–298, signed "Veit Dietrich."),
 
 ## Appendix A. TLHy collects not taken from Dietrich
 
-These collects are in TLHy, as given in the Orthodox Lutheran Ministerium's web text, but they are not Dietrich's, and the *Summaria* has no German for them. They are printed here as TLHy has them, so that every TLHy day can be found in this edition. None of them has "Holy Spirit," so none needed the change described in §2.3; "Thy Spirit" ([14]) and "the power of Thy Spirit" ([74]) stand as printed. Where Dietrich has a collect for the same day, it is given in Part I or II, and the index (§3) lists both.
+These are the collects that Stratman marks (H), as TLHy's own. They are printed here as TLHy has them, so that every TLHy day can be found in this edition. Where Dietrich has a collect for the same day, it is given in Part I or II, and the index (§3) lists both.
 
-Two further TLHy collects are not repeated here. TLHy's Quinquagesima collect (Stratman's [24]) is Dietrich's [10], restored to the Sunday after New Year. TLHy's Maundy Thursday collect ([33]) is a free adaptation of Dietrich's [32], and is revised against it under [32]. Stratman also marks a harvest thanksgiving collect, [77], as TLHy's; it is not among the web texts used here. It belongs to TLHy's second series of collects (p. 82), on which see Appendix B.
+Most of them are not Dietrich's, and the *Summaria* has no German for them. Two are Dietrich's prayers in another form, and are given here unrevised, for reference. TLHy's Quinquagesima collect, [24], is Dietrich's [10], which this edition restores to the Sunday after New Year and revises there. TLHy's Maundy Thursday collect, [33], is a free adaptation of Dietrich's [32], and is revised against it under [32].
+
+The texts are those of the Orthodox Lutheran Ministerium's web text, except [24], [33] and [77], which are read from the page images of the printed hymnary (1913). The harvest collect [77] is not in the web text: it belongs to TLHy's second series of collects (p. 82), on which see Appendix B. Only [24] and [33] have "Holy Spirit"; there it is changed to "Holy Ghost" (§2.3), and the change is noted. "Thy Spirit" ([14]) and "the power of Thy Spirit" ([74]) stand as printed.
 
 ### [7] First Sunday of Christmas
 
@@ -2432,11 +2437,23 @@ Dietrich's collect for this Sunday is [16].
 
 The *Summaria* has no section for this Sunday. A rubric at TLHy's Twenty-seventh Sunday after Trinity appoints "the Collect for the Sixth Sunday after Epiphany" for the last Sunday after Trinity in each year (p. 81); see [73] in Appendix B.
 
+### [24] Quinquagesima
+
+> Lord God, heavenly Father, who didst manifest Thyself, with the Holy Ghost, in the fullness of grace at the baptism of Thy dear Son, and with Thy voice didst direct us to Him who hath borne our sins, that we might receive grace and the remission of sins: Keep us, we beseech Thee, in the true faith; and inasmuch as we have been baptized in accordance with Thy command, and the example of Thy dear Son, we pray Thee to strengthen our faith by Thy Holy Ghost, and lead us to everlasting life and salvation, through Thy beloved Son, Jesus Christ our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+
+TLHy, first series, p. 54. "Thy Holy Spirit" → "Thy Holy Ghost" (§2.3). This is Dietrich's prayer for the Sunday after New Year, which TLHy prints at Quinquagesima because in the Dano-Norwegian pericopes that Sunday has the Baptism of Christ. It is restored to its Sunday and revised as [10]; Dietrich's collect for Quinquagesima is [23].
+
 ### [31] Palm Sunday
 
 > Almighty and everlasting God, who hast caused Thy beloved Son to take our nature upon Himself, that He might give all mankind the example of humility and suffer death upon the cross for our sins: Mercifully grant us a believing knowledge of this, and that, following the example of His patience, we may be made partakers of the benefits of His sacred passion and death, through the same, Thy beloved Son, Jesus Christ, our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
 
 Dietrich's collect for this Sunday is [30].
+
+### [33] Maundy Thursday
+
+> O Lord Jesus Christ, we thank Thee, that of Thine infinite mercy Thou hast instituted this Thy sacrament, in which we eat Thy body and drink Thy blood: Grant us, we beseech Thee, by Thy Holy Ghost, that we may not receive this gift unworthily, but that we may confess our sins, remember Thine agony and death, believe the forgiveness of sin, and day by day grow in faith and love, until we obtain eternal salvation through Thee, who livest and reignest with the Father and the Holy Ghost, one true God, world without end. Amen.
+
+TLHy, first series ("Holy Thursday"), p. 58. "Thy Holy Spirit" → "Thy Holy Ghost" (§2.3). This is a free adaptation of Dietrich's [32], readdressed to Christ, and is revised against the German under [32].
 
 ### [72] Twenty-sixth Sunday after Trinity
 
@@ -2449,6 +2466,12 @@ The *Summaria* ends the Trinity season with the Twenty-fifth Sunday.
 > O gracious God, merciful Father, who dost bountifully forgive and show mercy unto all who truly repent of their sins: We heartily beseech Thee, dear Father, forgive us all our sins, and grant us Thy grace, that all we who call upon Thy name, each day abstain from all unrighteousness and sin, and turn unto Thee with all our hearts, that by the power of Thy Spirit we may daily be found in sincere faith and obedience, bringing forth fruits of true repentance: grant us also that, seeking and calling upon Thee in faith and confidence, we may find Thee a merciful God and Father, and be assured of Thy gracious help and blessing in every need of body and soul, until at length, by Thy grace, we obtain eternal salvation; through Thy dear Son, our Lord and Savior, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
 
 TLHy's second-series collect for this day is [75] (Appendix B).
+
+### [77] The Festival of Harvest
+
+> Almighty God, most merciful Father, who openest Thy hand, and satisfiest the desire of every living thing: We give Thee most humble and hearty thanks that Thou hast crowned the fields with Thy blessing, and hast permitted us once more to gather in the fruits of the earth; and we beseech Thee to bless and protect the living seed of Thy word sown in our hearts, that in the plenteous fruits of righteousness we may always present to Thee an acceptable thank-offering; through Jesus Christ, Thy Son, our Lord, who liveth and reigneth with Thee and the Holy Ghost, ever one God, world without end. Amen.
+
+TLHy, second series, p. 82. The *Summaria* has no harvest festival, and TLHy has no first-series collect for it. The opening is Psalm 145:16. The collect is already in the *Church Book* of 1868 (p. 64) and passed from there into the Common Service of 1888, the service with which TLHy's second series is to be used. Stratman prints it under "Thanksgiving / Harvest," before [78] (Appendix B).
 
 ### [82] St. Stephen's Day
 
@@ -2478,7 +2501,7 @@ Stratman marks with "(ELH)" the prayers that, in his words, "appear in Evangelic
 
 - **[73] Last Sunday after Trinity** is a Latin Advent collect of the Old Gelasian Sacramentary, which came into English in William Bright's *Ancient Collects* (1862). ELH is the first Lutheran book found to have it. A new translation is made here from the Latin.
 - **[76] Mission Festival** goes back to a collect first printed in 1975, in the Church of England's Series 3 collects and the British *Methodist Service Book*. *Lutheran Worship* (1982) recast it as its Collect of the Day for Mission Festival, and ELH took it from there. The version here is made from that Lutheran form.
-- **[75] and [78] are in TLHy after all.** TLHy prints two series of collects: "The first Series of Collects is to be used with the first Service; the second Series, together with the Introits, to be used with the second or Common Service" (p. 44). This edition follows the first series. The second series gives a further collect after each day's Introit. [75] is TLHy's second-series collect for the Day of Humiliation and Prayer (p. 81), and [78] its collect for A Day of General or Special Thanksgiving (p. 82). Both came to TLHy from the Common Service of 1888, and ELH follows TLHy's wording of them. Stratman marks the harvest collect [77], which stands in the same series on the same page, as TLHy's (H); [75] and [78] belong with it. For these two, TLHy's own text is the version in TLHy's idiom.
+- **[75] and [78] are in TLHy after all.** TLHy prints two series of collects: "The first Series of Collects is to be used with the first Service; the second Series, together with the Introits, to be used with the second or Common Service" (p. 44). This edition follows the first series. The second series gives a further collect after each day's Introit. [75] is TLHy's second-series collect for the Day of Humiliation and Prayer (p. 81), and [78] its collect for A Day of General or Special Thanksgiving (p. 82). Both came to TLHy from the Common Service of 1888, and ELH follows TLHy's wording of them. Stratman marks the harvest collect [77] (Appendix A), which stands in the same series on the same page, as TLHy's (H); [75] and [78] belong with it. For these two, TLHy's own text is the version in TLHy's idiom.
 
 **How the entries are given.** Each entry gives the source text where there is one, Stratman's text with its ELH number, the version in TLHy's idiom, and notes. Stratman's texts are quoted from his PDF (CC BY-NC-ND 4.0). Where ELH's own wording is quoted, it comes from search excerpts of the Internet Archive's scan of ELH; the rest of ELH's text could not be consulted, and Stratman's text stands in for it. The versions follow §2.2–2.4, with "Holy Ghost" for "Holy Spirit" and TLHy's conclusions. Because none of these prayers is Dietrich's, nothing is set in italics.
 
@@ -2820,6 +2843,7 @@ Paul C. Stratman's *The Collects of Veit Dietrich* gives every collect in modern
 
 - Veit Dietrich, *Summaria Christlicher lehr/für das junge volck…* (1548), Google Books digitization (uploaded PDF, 306 pp.).
 - *The Lutheran Hymnary* (1913), collects of Veit Dietrich, as given in "Collects of Veit Dietrich," The Orthodox Lutheran Ministerium (project document).
+- *The Lutheran Hymnary* (Minneapolis: Augsburg Publishing House, 1913), printed edition, pp. 54, 58 and 82, for [24], [33] and [77] in Appendix A, read from the page images: [Internet Archive](https://archive.org/details/lutheranhymnary00synogoog).
 - Paul C. Stratman, *The Collects of Veit Dietrich* (CC BY-NC-ND 4.0), project file `veit-dietrich-collects-ce3.pdf`.
 - Paul C. Stratman, "NEW! Summary of Christian Teaching by Veit Dietrich," *A Collection of Prayers* (1 April 2026), for the year of first publication (1546): [acollectionofprayers.com](https://acollectionofprayers.com/2026/04/01/new-summary-of-christian-teaching-by-veit-dietrich/).
 - Rudolf Endres, "Neudörf(f)er, Johann der Ältere," *Neue Deutsche Biographie* 19 (1999), 106: [Deutsche Biographie](https://www.deutsche-biographie.de/118844105.html).
