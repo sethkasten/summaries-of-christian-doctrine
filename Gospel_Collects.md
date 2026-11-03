@@ -16,8 +16,9 @@ Every Gospel collect in Dietrich's *Summaria* is given here in its original Germ
 - [Part II. Sanctorale](#part-ii-sanctorale): [November and December](#november-and-december) · [January to March](#january-to-march) · [May to July](#may-to-july) · [August to October](#august-to-october)
 - [Part III. Appended prayers](#part-iii-appended-prayers-pdf-pp-299303)
 - [Appendix A. TLHy collects not taken from Dietrich](#appendix-a-tlhy-collects-not-taken-from-dietrich)
-- [Appendix B. Stratman compared](#appendix-b-stratman-compared)
-- [Appendix C. Observations on the 1548 edition](#appendix-c-observations-on-the-1548-edition)
+- [Appendix B. ELH collects in Stratman](#appendix-b-elh-collects-in-stratman)
+- [Appendix C. Stratman compared](#appendix-c-stratman-compared)
+- [Appendix D. Observations on the 1548 edition](#appendix-d-observations-on-the-1548-edition)
 - [Sources](#sources)
 
 ---
@@ -32,7 +33,8 @@ PDF pp. 1–2 are Google's digitization notices. The book opens with the title p
 
 - **54 collects are in TLHy.** Each is printed as *Revised TLHy*, with its changes listed. They include [10], which TLHy prints at Quinquagesima and which is restored here to the Sunday after New Year, and Maundy Thursday, where TLHy's collect ([33]) proves to be a free adaptation of Dietrich's [32].
 - **26 collects are not in TLHy.** Each is given in a *New translation* in TLHy's idiom. Among them is Dietrich's own Quinquagesima collect [23].
-- **TLHy's other collects**, which do not come from Dietrich, are given in Appendix A, so that every TLHy day can be found.
+- **TLHy's other collects**, which do not come from Dietrich, are given in Appendix A, so that every TLHy day can be found. Thirteen of them belong to TLHy's first series and are English versions of Norwegian collects: twelve that Stratman marks (H), and TLHy's second collect for St. Stephen's Day, which he omits. Each is given in the Norwegian of 1887 and revised against it, as Dietrich's collects are revised against his German. Appendix A also gives, for reference, TLHy's own texts of [24] and [33] (Dietrich's [10] and [32]) and its harvest collect [77], so that it holds every collect Stratman marks (H).
+- **The four collects Stratman marks (ELH)**, [73], [75], [76] and [78], are given in Appendix B with their origins and a version in TLHy's idiom. Two of them, [75] and [78], prove to be in TLHy after all, in its second series of collects.
 - The front matter (title page and dedicatory letter) precedes Part I, and Part III gives the two prayers appended at the end of the book.
 
 ---
@@ -55,7 +57,7 @@ Every TLHy collect that comes from the *Summaria* was set beside Dietrich's Germ
 1. **Register and syntax.** TLHy uses Thee/Thou/Thy/Thine, -est/-eth verbs and capitalized divine pronouns. It shapes each prayer as a collect: invocation, a relative clause ("who hast…"), a colon, then the petition ("We beseech Thee…"). Scripture echoes are given in King James wording.
 2. **Plural for singular.** TLHy recasts Dietrich's first-person-singular prayers in the plural (Epiphany 2; Trinity 11, 12, 19 and 20).
 3. **Conclusions.** TLHy adds its full conclusion to every prayer, whether Dietrich ends with no conclusion at all, with a short "durch Christum…" (e.g., Easter 1, Trinity 8), or with a Trinitarian close of his own (Epiphany 4; Trinity 22 and 25).
-4. **Free paraphrase.** TLHy often paraphrases. It drops clauses (Epiphany 4's "to hear our prayer in all temptation and need"; Trinity 13's "and sooner forsake all things"), adds others (Maundy Thursday's "remember Thine agony and death"; Trinity 8's prayer to "send us now and ever pious pastors"), and at times reverses the sense (Trinity 18 blames "the weakness of our flesh and blood," where Dietrich says that flesh and blood are too *strong* in us). At Maundy Thursday it readdresses Dietrich's prayer to Christ.
+4. **Free paraphrase.** TLHy often paraphrases. It drops clauses (Epiphany 4's "to hear our prayer in all temptation and need"; Trinity 13's "and sooner forsake all things"), adds others (Maundy Thursday's "remember Thine agony and death"; Trinity 8's prayer to "send us now and ever pious pastors"), and at times reverses the sense (Trinity 18 blames "the weakness of our flesh and blood," where Dietrich says that flesh and blood are too *strong* in us). At Maundy Thursday it readdresses Dietrich's prayer to Christ. Not all of this is TLHy's own work: TLHy translated the Norwegian collects of 1887 (Appendix A), and the Maundy Thursday prayer is already addressed to Christ there, with "remember Thine agony and death" (*komme din Pine og Død ihu*).
 
 **How TLHy is revised here.**
 
@@ -120,7 +122,7 @@ The two appended prayers in Part III end with their own conclusions, and nothing
 5. **Congregational form**, where Dietrich prays in the first person singular.
 6. **Changes from TLHy** (revised texts) or **Notes** (new translations).
 
-Stratman's modern versions are compared with the German in Appendix B.
+Stratman's modern versions are compared with the German in Appendix C.
 
 ---
 
@@ -137,25 +139,26 @@ Stratman's modern versions are compared with the German in Appendix B.
 | | *Christmas* | | |
 | [5] | [Christmas Day](#5-christmas-day) | p. 29 | Revised TLHy |
 | [6] | [First Sunday of Christmas (Sunday after Christmas)](#6-first-sunday-of-christmas-sunday-after-christmas) | pp. 35–36 | New translation |
-| [7] | [First Sunday of Christmas](#7-first-sunday-of-christmas) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
+| [7] | [First Sunday of Christmas](#7-first-sunday-of-christmas) (TLHy) | — | Not Dietrich; Revised TLHy, against the Norwegian (Appendix A) |
 | [8] | [The Circumcision / New Year's Day](#8-the-circumcision--new-years-day) | pp. 38–39 | New translation |
-| [9] | [The Circumcision of Christ](#9-the-circumcision-of-christ) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
+| [9] | [The Circumcision of Christ](#9-the-circumcision-of-christ) (TLHy) | — | Not Dietrich; Revised TLHy, against the Norwegian (Appendix A) |
 | [10] | [Second Sunday of Christmas (Sunday after New Year), restored from Quinquagesima](#10-second-sunday-of-christmas-sunday-after-new-year-restored-from-quinquagesima) | pp. 42–43 | Revised TLHy |
-| [11] | [Second Sunday of Christmas](#11-second-sunday-of-christmas) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
+| [11] | [Second Sunday of Christmas](#11-second-sunday-of-christmas) (TLHy) | — | Not Dietrich; Revised TLHy, against the Norwegian (Appendix A) |
 | | *Epiphany* | | |
 | [12] | [The Epiphany of Our Lord](#12-the-epiphany-of-our-lord) | pp. 50–51 | Revised TLHy |
 | [13] | [First Sunday after Epiphany](#13-first-sunday-after-epiphany) | p. 53 | New translation |
-| [14] | [First Sunday after Epiphany](#14-first-sunday-after-epiphany) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
+| [14] | [First Sunday after Epiphany](#14-first-sunday-after-epiphany) (TLHy) | — | Not Dietrich; Revised TLHy, against the Norwegian (Appendix A) |
 | [15] | [Second Sunday after Epiphany](#15-second-sunday-after-epiphany) | p. 56 | Revised TLHy |
 | [16] | [Third Sunday after Epiphany](#16-third-sunday-after-epiphany) | pp. 59–60 | New translation |
-| [17] | [Third Sunday after Epiphany](#17-third-sunday-after-epiphany) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
+| [17] | [Third Sunday after Epiphany](#17-third-sunday-after-epiphany) (TLHy) | — | Not Dietrich; Revised TLHy, against the Norwegian (Appendix A) |
 | [18] | [Fourth Sunday after Epiphany](#18-fourth-sunday-after-epiphany) | p. 63 | Revised TLHy |
 | [19] | [Fifth Sunday after Epiphany](#19-fifth-sunday-after-epiphany) | p. 66 | Revised TLHy |
-| [20] | [Sixth Sunday after Epiphany](#20-sixth-sunday-after-epiphany) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
+| [20] | [Sixth Sunday after Epiphany](#20-sixth-sunday-after-epiphany) (TLHy) | — | Not Dietrich; Revised TLHy, against the Norwegian (Appendix A) |
 | | *Pre-Lent* | | |
 | [21] | [Septuagesima](#21-septuagesima) | p. 69 | Revised TLHy |
 | [22] | [Sexagesima](#22-sexagesima) | p. 72 | Revised TLHy |
 | [23] | [Quinquagesima](#23-quinquagesima) | pp. 75–76 | New translation |
+| [24] | [Quinquagesima](#24-quinquagesima) (TLHy) | — | TLHy's text of Dietrich's [10], unrevised (Appendix A) |
 | | *Lent and Holy Week* | | |
 | [25] | [First Sunday in Lent (Invocavit)](#25-first-sunday-in-lent-invocavit) | p. 79 | Revised TLHy |
 | [26] | [Second Sunday in Lent (Reminiscere)](#26-second-sunday-in-lent-reminiscere) | p. 82 | Revised TLHy |
@@ -163,8 +166,9 @@ Stratman's modern versions are compared with the German in Appendix B.
 | [28] | [Fourth Sunday in Lent (Laetare)](#28-fourth-sunday-in-lent-laetare) | p. 88 | Revised TLHy |
 | [29] | [Fifth Sunday in Lent (Judica)](#29-fifth-sunday-in-lent-judica) | pp. 91–92 | New translation |
 | [30] | [Palm Sunday](#30-palm-sunday) | pp. 95–96 | New translation |
-| [31] | [Palm Sunday](#31-palm-sunday) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
+| [31] | [Palm Sunday](#31-palm-sunday) (TLHy) | — | Not Dietrich; Revised TLHy, against the Norwegian (Appendix A) |
 | [32] | [Maundy Thursday](#32-maundy-thursday) | p. 100 | Revised TLHy |
+| [33] | [Maundy Thursday](#33-maundy-thursday) (TLHy) | — | TLHy's adaptation of [32], unrevised (Appendix A) |
 | | *Easter and Ascension* | | |
 | [34] | [Easter Day](#34-easter-day) | p. 103 | Revised TLHy |
 | [35] | [Easter Monday](#35-easter-monday) | p. 106 | Revised TLHy |
@@ -206,21 +210,27 @@ Stratman's modern versions are compared with the German in Appendix B.
 | [69] | [Twenty-third Sunday after Trinity](#69-twenty-third-sunday-after-trinity) | p. 220 | Revised TLHy |
 | [70] | [Twenty-fourth Sunday after Trinity](#70-twenty-fourth-sunday-after-trinity) | p. 224 | Revised TLHy |
 | [71] | [Twenty-fifth Sunday after Trinity](#71-twenty-fifth-sunday-after-trinity) | p. 228 | Revised TLHy |
-| [72] | [Twenty-sixth Sunday after Trinity](#72-twenty-sixth-sunday-after-trinity) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
-| [74] | [Day of Humiliation and Prayer](#74-day-of-humiliation-and-prayer) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
+| [72] | [Twenty-sixth Sunday after Trinity](#72-twenty-sixth-sunday-after-trinity) (TLHy) | — | Not Dietrich; Revised TLHy, against the Norwegian (Appendix A) |
+| [73] | [Last Sunday after Trinity](#73-last-sunday-after-trinity) (ELH) | — | Not Dietrich; new version from the Latin (Appendix B) |
+| [74] | [Day of Humiliation and Prayer](#74-day-of-humiliation-and-prayer) (TLHy) | — | Not Dietrich; Revised TLHy, against the Norwegian (Appendix A) |
+| [75] | [Day of Humiliation and Prayer, second collect](#75-day-of-humiliation-and-prayer-second-collect) (ELH; TLHy second series) | — | Not Dietrich; TLHy's text (Appendix B) |
+| [76] | [Mission Festival](#76-mission-festival) (ELH) | — | Not Dietrich; new version in TLHy's idiom (Appendix B) |
+| [77] | [The Festival of Harvest](#77-the-festival-of-harvest) (TLHy) | — | Not Dietrich; TLHy's second series, unrevised (Appendix A) |
+| [78] | [Day of General or Special Thanksgiving](#78-day-of-general-or-special-thanksgiving) (ELH; TLHy second series) | — | Not Dietrich; TLHy's text, corrected (Appendix B) |
 | | **Part II. Sanctorale** | | |
 | | *November and December* | | |
 | [79] | [St. Andrew, Apostle (November 30)](#79-st-andrew-apostle-november-30) | pp. 232–233 | New translation |
 | [80] | [St. Thomas, Apostle (December 21)](#80-st-thomas-apostle-december-21) | p. 236 | New translation |
 | [81] | [St. Stephen, Martyr (December 26)](#81-st-stephen-martyr-december-26) | pp. 32–33 | New translation |
-| [82] | [St. Stephen's Day](#82-st-stephens-day) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
+| [82] | [St. Stephen's Day](#82-st-stephens-day) (TLHy) | — | Not Dietrich; Revised TLHy, against the Norwegian (Appendix A) |
+| — | [St. Stephen's Day, second collect](#st-stephens-day-second-collect) (TLHy) | — | Not Dietrich; not in Stratman; Revised TLHy, against the Norwegian (Appendix A) |
 | [83] | [The Holy Innocents (December 28)](#83-the-holy-innocents-december-28) | pp. 239–240 | New translation |
 | | *January to March* | | |
 | [84] | [The Conversion of St. Paul (January 25)](#84-the-conversion-of-st-paul-january-25) | p. 243 | New translation |
 | [85] | [The Purification of Mary / Presentation of Our Lord (February 2)](#85-the-purification-of-mary--presentation-of-our-lord-february-2) | p. 247 | New translation |
 | [86] | [St. Matthias, Apostle (February 24)](#86-st-matthias-apostle-february-24) | pp. 250–251 | New translation |
 | [87] | [The Annunciation (March 25)](#87-the-annunciation-march-25) | pp. 254–255 | New translation |
-| [88] | [The Annunciation](#88-the-annunciation) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
+| [88] | [The Annunciation](#88-the-annunciation) (TLHy) | — | Not Dietrich; Revised TLHy, against the Norwegian (Appendix A) |
 | | *May to July* | | |
 | [89] | [Sts. Philip and James, Apostles (May 1)](#89-sts-philip-and-james-apostles-may-1) | p. 259 | New translation |
 | [90] | [The Nativity of St. John the Baptist (June 24)](#90-the-nativity-of-st-john-the-baptist-june-24) | pp. 262–263 | New translation |
@@ -233,9 +243,9 @@ Stratman's modern versions are compared with the German in Appendix B.
 | [96] | [St. Matthew, Apostle and Evangelist (September 21)](#96-st-matthew-apostle-and-evangelist-september-21) | p. 288 | New translation |
 | [97] | [St. Michael and All Angels (September 29)](#97-st-michael-and-all-angels-september-29) | p. 292 | New translation |
 | [98] | [Sts. Simon and Jude, Apostles (October 28)](#98-sts-simon-and-jude-apostles-october-28) | p. 296 | New translation |
-| [99] | [Feast of All Saints](#99-feast-of-all-saints) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
+| [99] | [Feast of All Saints](#99-feast-of-all-saints) (TLHy) | — | Not Dietrich; Revised TLHy, against the Norwegian (Appendix A) |
 
-"Revised TLHy" marks a TLHy collect corrected against the German; "New translation" marks a Dietrich collect that TLHy lacks. TLHy's Quinquagesima collect (Stratman's [24]) is [10], and its Maundy Thursday collect ([33]) is revised under [32].
+"Revised TLHy" marks a TLHy collect corrected against the German or, in Appendix A, against the Norwegian of 1887 from which TLHy translated it; "New translation" marks a Dietrich collect that TLHy lacks. TLHy's Quinquagesima collect (Stratman's [24]) is [10], and its Maundy Thursday collect ([33]) is revised under [32]; both are also given unrevised in Appendix A. "(TLHy)" marks the collects that Stratman marks (H), all of which are in Appendix A, and "(ELH)" the four that he assigns to ELH alone (Appendix B). Every number in Stratman, [1] to [99], is listed. The one row without a number is TLHy's second collect for St. Stephen's Day, which Stratman does not include.
 
 ---
 
@@ -555,7 +565,7 @@ St. Stephen's Day, which the *Summaria* prints after Christmas, is given with th
 
 **Dietrich's heading (PDF p. 40):** *Am Sontag zwischē dem Newen jar vnd Obersten/wie Christus am Jordan von Johanne ist getauffet worden/Matth. 3.* [On the Sunday between New Year and Epiphany: how Christ was baptized by John at the Jordan. Matthew 3.] *Oberster* (Tag) is Dietrich's name for Epiphany.
 
-**Assignment.** TLHy prints this collect at Quinquagesima. It is restored here to the Sunday after New Year, which TLHy calls the Second Sunday of Christmas, and Quinquagesima receives Dietrich's own collect [23]. TLHy followed the Dano-Norwegian pericopes, in which Quinquagesima (*Fastelavn*) carries the Baptism of Christ, Matthew 3:13–17; in the German pericopes Dietrich follows, Quinquagesima has Luke 18:31–43, and the Baptism falls on the Sunday after New Year. TLHy's own collect for the Second Sunday of Christmas is not Dietrich's (Appendix A, [11]).
+**Assignment.** TLHy prints this collect at Quinquagesima. It is restored here to the Sunday after New Year, which TLHy calls the Second Sunday of Christmas, and Quinquagesima receives Dietrich's own collect [23]. TLHy followed the Dano-Norwegian pericopes, in which Quinquagesima (*Fastelavn*) carries the Baptism of Christ, Matthew 3:13–17; in the German pericopes Dietrich follows, Quinquagesima has Luke 18:31–43, and the Baptism falls on the Sunday after New Year. TLHy's own collect for the Second Sunday of Christmas is not Dietrich's (Appendix A, [11]). TLHy's unrevised text of this prayer, Stratman's [24], is given in Appendix A.
 
 **German (PDF pp. 42–43)**
 
@@ -953,7 +963,7 @@ The young household folk who are not yet in the estate of marriage should direct
 
 **Dietrich's heading (PDF p. 96):** *Von dem Abendmal des Herren 1. Cor. 11.* [Of the Lord's Supper. 1 Corinthians 11.]
 
-**Relation to TLHy.** TLHy's Maundy Thursday collect (Stratman's [33], which he marks as TLHy's alone) is a free adaptation of this prayer, readdressed to Christ: its thanksgiving for the sacrament, "that we may not receive this gift unworthily," the confession of sins, faith in forgiveness and growth "day by day … in faith and love, until we obtain eternal salvation" all come from Dietrich. It is therefore revised here against Dietrich's German, and the revision serves as the English of [32].
+**Relation to TLHy.** TLHy's Maundy Thursday collect (Stratman's [33], which he marks as TLHy's alone) is a free adaptation of this prayer, readdressed to Christ: its thanksgiving for the sacrament, "that we may not receive this gift unworthily," the confession of sins, faith in forgiveness and growth "day by day … in faith and love, until we obtain eternal salvation" all come from Dietrich. It is therefore revised here against Dietrich's German, and the revision serves as the English of [32]. The adaptation was not made by TLHy: TLHy translates the Norwegian collect of 1887, which already has it. TLHy's unrevised text is given in Appendix A, [33].
 
 **German (PDF p. 100)**
 
@@ -1989,7 +1999,7 @@ The young household folk who are not yet in the estate of marriage should direct
 
 **Dietrich's heading (PDF p. 30):** *An Sanct Steffans tag/in den geschichten/wie er vmb des Herrn Christi willen/von Juden ist gesteyniget worden/Acto. 7.* [On St. Stephen's Day, from the Acts: how he was stoned by the Jews for the sake of the Lord Christ. Acts 7.] In the 1548 book this section stands in the Christmas sequence, between Christmas and the Sunday after Christmas.
 
-**Assignment:** St. Stephen's Day, beside TLHy's present collect, which is not Dietrich's ("O eternal and merciful God, our heavenly Father, who didst give such grace to Saint Stephen…"; Appendix A, [82]).
+**Assignment:** St. Stephen's Day, beside TLHy's present collect, which is not Dietrich's ("O eternal and merciful God, our heavenly Father, who didst give such grace to Saint Stephen…"; Appendix A, [82]). TLHy also has a second collect for the day, a Norwegian prayer of 1887 for use with its second and third series of texts, which give Christmas readings (Appendix A).
 
 **German (PDF pp. 32–33)**
 
@@ -2386,83 +2396,509 @@ After Dietrich's address to the reader (pp. 297–298, signed "Veit Dietrich."),
 
 ## Appendix A. TLHy collects not taken from Dietrich
 
-These collects are in TLHy, as given in the Orthodox Lutheran Ministerium's web text, but they are not Dietrich's, and the *Summaria* has no German for them. They are printed here as TLHy has them, so that every TLHy day can be found in this edition. None of them has "Holy Spirit," so none needed the change described in §2.3; "Thy Spirit" ([14]) and "the power of Thy Spirit" ([74]) stand as printed. Where Dietrich has a collect for the same day, it is given in Part I or II, and the index (§3) lists both.
+These are the collects that Stratman marks (H), as TLHy's own, together with one TLHy collect that he omits, the second collect for St. Stephen's Day. Where Dietrich has a collect for the same day, it is given in Part I or II, and the index (§3) lists both.
 
-Two further TLHy collects are not repeated here. TLHy's Quinquagesima collect (Stratman's [24]) is Dietrich's [10], restored to the Sunday after New Year. TLHy's Maundy Thursday collect ([33]) is a free adaptation of Dietrich's [32], and is revised against it under [32]. Stratman also marks a harvest thanksgiving collect, [77], as TLHy's; it is not among the web texts used here.
+**The Norwegian originals.** TLHy prints two series of collects (p. 45; see Appendix B). The first series is the collects of the Church of Norway in English, in the revised form appointed for use from Advent 1887. Most of those collects are Dietrich's prayers in Danish-Norwegian form, which is why most of TLHy's first series is found in the *Summaria*. The first-series collects that are not Dietrich's are Norwegian as well, and each is given here as Dietrich's collects are given in Parts I and II: first the Norwegian, from the official collection of 1887, *Kollekter, Epistler og Evangelier*, then TLHy's text revised against it (**Revised TLHy**), with every change listed under **Changes from TLHy**. The rules of §2.2 and §2.3 apply, with the Norwegian in place of the German. TLHy's wording is quoted from the printed hymnary (1913). The Orthodox Lutheran Ministerium's web text agrees with it, except that in [74] it has a colon after "repentance" where the print has a semicolon.
+
+**Older forms.** Except for the second St. Stephen's Day collect, all of these prayers are older than 1887. Each is already in the Danish-Norwegian Altar Book, cited here from its printing of 1812. The committee of 1887 modernized their spelling and revised several of them, most of all [14], [20] and [88], and TLHy follows the revised text throughout. The older readings, and the Latin collects behind [7], [17], [31] and [88], are given under **Origin**. The revision itself follows the Norwegian of 1887, which is what TLHy translated.
+
+**Conclusions.** Every Norwegian collect ends *som med dig lever og regjerer i Hellig-Aands Enighed, een sand Gud fra Evighed og til Evighed* [who with Thee liveth and reigneth in the unity of the Holy Ghost, one true God from eternity to eternity]. TLHy's first series gives these prayers its usual conclusion instead: "who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end." The Norwegian close is restored, as Dietrich's own closes are (§2.4 g). Its wording is that of TLHy's other version of [72], in the second series (p. 81), "who liveth and reigneth with Thee, in the unity of the Holy Spirit, ever one God, world without end," with "Holy Ghost" (§2.3) and the first series' "one true God": "who liveth and reigneth with Thee, in the unity of the Holy Ghost, one true God, world without end." *Fra Evighed og til Evighed* is "world without end," as throughout TLHy. Because this change is made in every entry, it is not listed in each; changes in the words that lead into it, such as "through Thy beloved Son," are listed. Nothing is set in italics, since nothing is added to the Norwegian.
+
+**Transcription.** The Norwegian is given in roman type with its spelling and punctuation. The Fraktur double hyphen is printed "-", and words divided at a line end are joined. The bidding printed before each collect, *Lader os alle bede* ("Let us all pray"), is not part of the prayer and is not given. "Thy Spirit" ([14]) and "the power of Thy Spirit" ([74]) stand as TLHy prints them; they render *din Aand* and *din Aands Kraft* (§2.3).
+
+**[24], [33] and [77].** These three are given as TLHy prints them, for reference, and are not revised here. [24] and [33] are Dietrich's prayers in another form. TLHy's Quinquagesima collect, [24], is Dietrich's [10], which this edition restores to the Sunday after New Year and revises there. TLHy's Maundy Thursday collect, [33], is a free adaptation of Dietrich's [32], and is revised against it under [32]. Both are in the Norwegian of 1887 in the form that TLHy translates (*Fastelavns-Søndag*, pp. 101–102; *Skjærtorsdag*, pp. 142–143). The Maundy Thursday prayer is already addressed to Christ there, and already asks that we "remember Thine agony and death" (*komme din Pine og Død ihu*). The harvest collect [77] belongs to TLHy's second series (p. 82), on which see Appendix B. The three are read from the page images of the printed hymnary. For [24] and [33] the web text agrees with the print, apart from a closing "Amen," in [24]; [77] is not in the web text. In [24] and [33] "Holy Spirit" is changed to "Holy Ghost" (§2.3), and the change is noted.
 
 ### [7] First Sunday of Christmas
 
-> O almighty and everlasting God, mercifully direct our ways, that we may walk in Thy law, and be made to abound in good works: through Thy beloved Son, Jesus Christ our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+**Placement.** TLHy, first series, p. 48, "Sunday after Christmas." Dietrich's collect for this Sunday is [6].
 
-Dietrich's collect for this Sunday is [6].
+**Norwegian (*Kollekter, Epistler og Evangelier*, 1887, p. 39)**
+
+*Søndag efter Jul.* [Sunday after Christmas.]
+
+> O evige og almægtige Gud! vi bede dig, at du naadig vil styre og regjere vore Veie, at vi kunne vandre efter din Vilje, og voxe og forfremmes i et gudeligt Levnet, ved din elskelige Søn, Jesus Christus, vor Herre, som med dig lever og regjerer i Hellig-Aands Enighed, een sand Gud fra Evighed og til Evighed, Amen!
+
+**Revised TLHy**
+
+> O almighty and everlasting God, we beseech Thee mercifully to direct and govern our ways, that we may walk according to Thy will, and grow and increase in a godly life; through Thy beloved Son, Jesus Christ our Lord, who liveth and reigneth with Thee, in the unity of the Holy Ghost, one true God, world without end. Amen.
+
+**Changes from TLHy**
+- "mercifully direct our ways" → "we beseech Thee mercifully to direct and govern our ways" (*vi bede dig, at du naadig vil styre og regjere vore Veie*).
+- "walk in Thy law" → "walk according to Thy will" (*vandre efter din Vilje*).
+- "and be made to abound in good works:" → "and grow and increase in a godly life;" (*og voxe og forfremmes i et gudeligt Levnet*). TLHy's words are those of the Latin collect for the day (see Origin).
+
+**Origin**
+- **Latin.** The prayer is the Latin collect for the Sunday after Christmas, *Omnipotens sempiterne Deus, dirige actus nostros in beneplacito tuo: ut in nomine dilecti Filii tui mereamur bonis operibus abundare*. TLHy prints it in English as its second-series collect for the day (p. 48): "Almighty and everlasting God, direct our actions according to Thy good pleasure, that in the name of Thy beloved Son, we may be made to abound in good works…".
+- **Danish-Norwegian.** The 1812 printing of the Altar Book (p. 19) reads *vi bede dig, at du vil naadelig styre og regiere vore Veye, at vi kunne vandre efter din Villie, og for din elskelige Søns Skyld voxe og forfremmes i et gudeligt Levnet*. There the Son is named inside the petition ("for the sake of Thy beloved Son"), where the Latin has *in nomine dilecti Filii tui*. The revision of 1887 moved His name into the conclusion.
+- **TLHy.** "Be made to abound in good works" comes from the second-series collect. "Walk in Thy law" is in neither prayer.
+
+[↑ Index](#3-index-of-the-collects)
 
 ### [9] The Circumcision of Christ
 
-> O merciful and eternal God, heavenly Father, who didst cause Thy Son to endure circumcision and to be made subject to the law, that we might be redeemed from the curse of the law: We beseech Thee, grant us grace to become partakers of this redemption and thus obtain eternal salvation, through the same, Thy beloved Son, Jesus Christ our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+**Placement.** TLHy, first series, p. 49, "New Year." Dietrich's collect for this day is [8].
 
-Dietrich's collect for this day is [8].
+**Norwegian (*Kollekter, Epistler og Evangelier*, 1887, p. 44)**
+
+*Nytaarsdag.* [New Year's Day.]
+
+> O barmhjertige, evige Gud, himmelske Fader! du, som ved Omskjærelsen vilde give din elskelige Søn under Loven, at vi derved skulde forløses fra Lovens Forbandelse: Vi bede dig, giv os din Naade, at vi saaledes maa faa Del i denne Forløsning, at vi til evig Tid blive salige, ved den samme din elskelige Søn, vor Herre Jesus Christus, som med dig lever og regjerer i Hellig-Aands Enighed, een sand Gud fra Evighed og til Evighed, Amen!
+
+**Revised TLHy**
+
+> O merciful and eternal God, heavenly Father, who by circumcision didst cause Thy beloved Son to be made subject to the law, that we might thereby be redeemed from the curse of the law: We beseech Thee, grant us Thy grace to become partakers of this redemption and thus obtain eternal salvation, through the same, Thy beloved Son, our Lord Jesus Christ, who liveth and reigneth with Thee, in the unity of the Holy Ghost, one true God, world without end. Amen.
+
+**Changes from TLHy**
+- "who didst cause Thy Son to endure circumcision and to be made subject to the law" → "who by circumcision didst cause Thy beloved Son to be made subject to the law" (*som ved Omskjærelsen vilde give din elskelige Søn under Loven*). "Beloved" is restored, and circumcision is again the means by which the Son is put under the law, not a separate event.
+- "that we might be redeemed" → "that we might thereby be redeemed" (*at vi derved skulde forløses*).
+- "grant us grace" → "grant us Thy grace" (*giv os din Naade*).
+- "Jesus Christ our Lord" → "our Lord Jesus Christ" (*vor Herre Jesus Christus*).
+
+**Origin**
+- **Danish-Norwegian.** The prayer is already in the 1812 printing (p. 22), in nearly the same words. There the petition begins *Giv os din Naade*, without *Vi bede dig* ("We beseech Thee"), which was added in 1887.
+- **Scripture.** Galatians 3:13, "Christ hath redeemed us from the curse of the law," and 4:4–5, "made under the law, to redeem them that were under the law."
+
+[↑ Index](#3-index-of-the-collects)
 
 ### [11] Second Sunday of Christmas
 
-> O Lord God, heavenly Father, who didst suffer Thy dear Son, Jesus Christ, to become a stranger and a sojourner in Egypt for our sakes, and didst lead Him safely home to His fatherland: Mercifully grant that we poor sinners, who are strangers and sojourners in this perilous world, may soon be called home to our true fatherland, the kingdom of heaven, where we shall live in eternal joy and glory; through the merits of Thy Son, Jesus Christ our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+**Placement.** TLHy, first series, p. 49, "Sunday after New Year." Dietrich's collect for this Sunday is [10].
 
-Dietrich's collect for this Sunday is [10].
+**Norwegian (*Kollekter, Epistler og Evangelier*, 1887, p. 48)**
+
+*Søndag efter Nytaar.* [Sunday after New Year.]
+
+> O Herre Gud, himmelske Fader! du, som lod din kjære Søn Jesus Christus blive Fremmed og Udlænding i Ægypten for vor Skyld, og førte ham uskadt hjem igjen til sit Fædreland: Vi bede dig, giv os din Naade, at vi arme Mennesker, som ere Fremmede og Udlændinge i denne farlige Verden, maatte snarlig komme hjem til Himmeriges Rige, vort rette Fædreland, der at leve altid i Herlighed og Glæde, for din Søns Jesu Christi Skyld, som med dig lever og regjerer i Hellig-Aands Enighed, een sand Gud fra Evighed og til Evighed, Amen!
+
+**Revised TLHy**
+
+> O Lord God, heavenly Father, who didst suffer Thy dear Son, Jesus Christ, to become a stranger and a sojourner in Egypt for our sakes, and didst lead Him safely home to His fatherland: We beseech Thee, grant us Thy grace, that we poor men, who are strangers and sojourners in this perilous world, may soon come home to our true fatherland, the kingdom of heaven, where we shall live in eternal joy and glory; for the sake of Thy Son, Jesus Christ, who liveth and reigneth with Thee, in the unity of the Holy Ghost, one true God, world without end. Amen.
+
+**Changes from TLHy**
+- "Mercifully grant that we poor sinners" → "We beseech Thee, grant us Thy grace, that we poor men" (*Vi bede dig, giv os din Naade, at vi arme Mennesker*).
+- "may soon be called home" → "may soon come home" (*maatte snarlig komme hjem*).
+- "through the merits of Thy Son, Jesus Christ our Lord" → "for the sake of Thy Son, Jesus Christ" (*for din Søns Jesu Christi Skyld*).
+
+**Origin**
+- **Danish-Norwegian.** The 1812 printing (pp. 23–24) has the same prayer. It answers to the Gospel of the old series, the return from Egypt (Matthew 2:19–23).
+
+[↑ Index](#3-index-of-the-collects)
 
 ### [14] First Sunday after Epiphany
 
-> Lord God, heavenly Father, who in mercy hast established the Christian home among us: We beseech Thee so to rule and direct our hearts, that we may be good examples to children and servants, and not offend them by word or deed, but faithfully teach them to love Thy Church and hear Thy blessed word. Give them Thy Spirit and grace, that this seed may bring forth good fruit, so that our homelife may conduce to Thy glory, honor and praise, to our own improvement and welfare, and give offense to no one; through the same, Thy beloved Son, Jesus Christ our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+**Placement.** TLHy, first series, p. 50. Dietrich's collect for this Sunday is [13].
 
-Dietrich's collect for this Sunday is [13].
+**Norwegian (*Kollekter, Epistler og Evangelier*, 1887, pp. 58–59)**
+
+*Første Søndag efter Hellig tre Kongers Dag.* [First Sunday after Holy Three Kings' Day.]
+
+> Herre Gud, himmelske Fader! du, som af Naade har sat en christelig Husstand iblandt os, vi bede dig, giv os saadanne Hjerter, at vi kunne give Børn og Tyende gode Exempler, og ikke forarge dem med Ord eller Gjerninger, men holde dem flittig til Kirke at høre dit salige Ord, og giv dem din Aand og Naade, at saadan Sæd kan bære god Frugt, saa at vi kunne leve i vore Hjem dig til Lov, Ære og Pris, og hverandre til Nytte og Forbedring, og Ingen til Forargelse, ved din elskelige Søn, Jesus Christus, vor Herre, som med dig lever og regjerer i Hellig-Aands Enighed, een sand Gud fra Evighed og til Evighed, Amen!
+
+**Revised TLHy**
+
+> Lord God, heavenly Father, who in mercy hast established the Christian home among us: We beseech Thee, give us such hearts, that we may be good examples to children and servants, and not offend them by word or deed, but faithfully keep them to church, to hear Thy blessed word; and give them Thy Spirit and grace, that this seed may bring forth good fruit, so that we may live in our homes to Thy glory, honor and praise, and to one another's welfare and improvement, and give offense to no one; through Thy beloved Son, Jesus Christ our Lord, who liveth and reigneth with Thee, in the unity of the Holy Ghost, one true God, world without end. Amen.
+
+**Changes from TLHy**
+- "We beseech Thee so to rule and direct our hearts, that" → "We beseech Thee, give us such hearts, that" (*vi bede dig, giv os saadanne Hjerter, at*).
+- "but faithfully teach them to love Thy Church and hear Thy blessed word. Give them" → "but faithfully keep them to church, to hear Thy blessed word; and give them" (*men holde dem flittig til Kirke at høre dit salige Ord, og giv dem*). The Norwegian asks that the household be kept to church, to hear the word.
+- "so that our homelife may conduce to Thy glory, honor and praise, to our own improvement and welfare," → "so that we may live in our homes to Thy glory, honor and praise, and to one another's welfare and improvement," (*saa at vi kunne leve i vore Hjem dig til Lov, Ære og Pris, og hverandre til Nytte og Forbedring*).
+- "through the same, Thy beloved Son" → "through Thy beloved Son" (*ved din elskelige Søn*). The Son has not been named before.
+
+**Origin**
+- **Danish-Norwegian.** The prayer was recast in 1887. The 1812 printing (pp. 25–26) begins *HErre Gud, himmelske Fader! du som formedelst din Naade og Velsignelse haver givet os Børn og Tyende* ("who by Thy grace and blessing hast given us children and servants"). It asks that the children and servants may live *dig til Lov, Ære og Priis, og andre Folk til Nytte og Forbedring* ("to Thy praise, honor and glory, and to the profit and amendment of other people"). The revision made it a prayer for the Christian household, and that is the form TLHy translates. The Gospel of the old series is the boy Jesus in the temple (Luke 2:42–52).
+
+[↑ Index](#3-index-of-the-collects)
 
 ### [17] Third Sunday after Epiphany
 
-> O almighty and everlasting God, mercifully look upon our infirmities, and in all dangers and necessities stretch forth Thy mighty hand, to defend us against our enemies; through Jesus Christ, Thy Son, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+**Placement.** TLHy, first series, p. 51. Dietrich's collect for this Sunday is [16].
 
-Dietrich's collect for this Sunday is [16].
+**Norwegian (*Kollekter, Epistler og Evangelier*, 1887, p. 70)**
+
+*Tredie Søndag efter Hellig tre Kongers Dag.* [Third Sunday after Holy Three Kings' Day.]
+
+> O almægtige, evige Gud! vi bede dig, at du naadig vil se til vor Skrøbelighed, og udrække din vældige Haand til at beskjærme os imod vore Fiender, ved Jesus Christus, din Søn, vor Herre, som med dig lever og regjerer i Hellig-Aands Enighed, een sand Gud fra Evighed og til Evighed, Amen.
+
+**Revised TLHy**
+
+> O almighty and everlasting God, we beseech Thee mercifully to look upon our infirmities, and to stretch forth Thy mighty hand, to defend us against our enemies; through Jesus Christ, Thy Son, our Lord, who liveth and reigneth with Thee, in the unity of the Holy Ghost, one true God, world without end. Amen.
+
+**Changes from TLHy**
+- "mercifully look upon our infirmities, and in all dangers and necessities stretch forth Thy mighty hand" → "we beseech Thee mercifully to look upon our infirmities, and to stretch forth Thy mighty hand" (*vi bede dig, at du naadig vil se til vor Skrøbelighed, og udrække din vældige Haand*). "In all dangers and necessities" is in neither the Norwegian nor the Latin; it comes from TLHy's second-series collect for the day (see Origin).
+- "Thy Son" → "Thy Son, our Lord" (*din Søn, vor Herre*).
+
+**Origin**
+- **Latin.** The prayer is the Latin collect for the Third Sunday after Epiphany, *Omnipotens sempiterne Deus, infirmitatem nostram propitius respice: atque ad protegendum nos dexteram tuae majestatis extende*, with "against our enemies" (*imod vore Fiender*) added. The 1812 printing (p. 32) has it in the same words as 1887.
+- **TLHy.** TLHy's second series gives the Latin collect in the form of the Common Service, with the *Book of Common Prayer*'s "in all our dangers and necessities" (pp. 51–52): "Almighty and everlasting God, mercifully look upon our infirmities, and in all our dangers and necessities stretch forth the right hand of Thy majesty, to help and defend us". The first-series text borrows that phrase.
+
+[↑ Index](#3-index-of-the-collects)
 
 ### [20] Sixth Sunday after Epiphany
 
-> O merciful and everlasting God, heavenly Father: We thank Thee that Thou hast revealed unto us the glory of Thy Son, and let the light of Thy gospel shine upon us: We pray Thee, guide us by this light that we may walk diligently as Christians in all good works, ever be strengthened by Thy grace, and conduct our lives in all godliness; through the same, Thy beloved Son, Jesus Christ our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+**Placement.** TLHy, first series, p. 53. The *Summaria* has no section for this Sunday. In the Norwegian book the prayer is the collect of the Twenty-seventh Sunday after Trinity, and the Sixth Sunday after Epiphany has no propers of its own, only a rubric (p. 87): *Det sker undertiden, dog sjelden, at der imellem Hellig tre Kongers Dag og Søndag Septuagesima ogsaa falder en sjette Søndag: derfor, naar det sker, da maa man bruge den Kollekt, Epistel og Evangelium, som falder paa den 27de Søndag efter Trefoldighed, fordi der da ikke falder saa mange Søndage mellem Trefoldighed og Advent.* [It happens at times, though seldom, that a sixth Sunday also falls between Holy Three Kings' Day and Septuagesima Sunday: therefore, when it happens, one is to use the collect, Epistle and Gospel that fall on the 27th Sunday after Trinity, because there are then not so many Sundays between Trinity and Advent.] TLHy reverses the arrangement. It prints the collect at the Sixth Sunday after Epiphany and appoints it for "the last Sunday after Trinity in each year" (p. 81); see [73] in Appendix B.
 
-The *Summaria* has no section for this Sunday.
+**Norwegian (*Kollekter, Epistler og Evangelier*, 1887, pp. 382–383)**
+
+*Syvogtyvende Søndag efter Trefoldigheds Fest.* [Twenty-seventh Sunday after the Feast of the Trinity.]
+
+> O barmhjertige, evige Gud, himmelske Fader! Vi takke dig, at du har aabenbaret os din Søns Herlighed og ladet dit Evangeliums Lys skinne for os: Vi bede dig, opvæk os ved dette Lys, at vi med al Flid kunne vandre christelig i alle gode Gjerninger, og altid styrkes af din Naade, og leve i Gudfrygtighed, ved vor Herre Jesus Christus, som med dig lever og regjerer i Hellig-Aands Enighed, een sand Gud fra Evighed og til Evighed, Amen!
+
+**Revised TLHy**
+
+> O merciful and everlasting God, heavenly Father: We thank Thee that Thou hast revealed unto us the glory of Thy Son, and let the light of Thy gospel shine upon us: We pray Thee, quicken us by this light, that we may walk with all diligence as Christians in all good works, ever be strengthened by Thy grace, and conduct our lives in godliness; through our Lord Jesus Christ, who liveth and reigneth with Thee, in the unity of the Holy Ghost, one true God, world without end. Amen.
+
+**Changes from TLHy**
+- "guide us by this light that" → "quicken us by this light, that" (*opvæk os ved dette Lys, at*). *Opvække* is *erwecken*, which TLHy renders "quicken" (§2.2).
+- "walk diligently" → "walk with all diligence" (*med al Flid … vandre*).
+- "in all godliness" → "in godliness" (*leve i Gudfrygtighed*).
+- "through the same, Thy beloved Son, Jesus Christ our Lord" → "through our Lord Jesus Christ" (*ved vor Herre Jesus Christus*).
+
+**Origin**
+- **Danish-Norwegian.** The 1812 printing (p. 178) has the prayer without its thanksgiving: *O barmhiertige, ævige Gud, himmelske Fader! Vi bede dig, at du vil opvække os, at vi med al Fliid kunne vandre Christeligen i alle gode Gierninger, og altid bestyrkes af din Naade, og befindes i al Gudelighed* ("…and be found in all godliness"). The revision of 1887 added the thanksgiving for the revealing of the Son's glory and the light of the gospel, which answers to the day's Gospel in the old series, the Transfiguration (Matthew 17:1–9), and it asks that God awaken us "by this light." The same 1812 printing has the rubric for the Sixth Sunday after Epiphany (p. 39).
+
+[↑ Index](#3-index-of-the-collects)
+
+### [24] Quinquagesima
+
+> Lord God, heavenly Father, who didst manifest Thyself, with the Holy Ghost, in the fullness of grace at the baptism of Thy dear Son, and with Thy voice didst direct us to Him who hath borne our sins, that we might receive grace and the remission of sins: Keep us, we beseech Thee, in the true faith; and inasmuch as we have been baptized in accordance with Thy command, and the example of Thy dear Son, we pray Thee to strengthen our faith by Thy Holy Ghost, and lead us to everlasting life and salvation, through Thy beloved Son, Jesus Christ our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+
+TLHy, first series, p. 54. "Thy Holy Spirit" → "Thy Holy Ghost" (§2.3). This is Dietrich's prayer for the Sunday after New Year, which TLHy prints at Quinquagesima because in the Dano-Norwegian pericopes that Sunday has the Baptism of Christ. It is restored to its Sunday and revised as [10]; Dietrich's collect for Quinquagesima is [23].
+
+[↑ Index](#3-index-of-the-collects)
 
 ### [31] Palm Sunday
 
-> Almighty and everlasting God, who hast caused Thy beloved Son to take our nature upon Himself, that He might give all mankind the example of humility and suffer death upon the cross for our sins: Mercifully grant us a believing knowledge of this, and that, following the example of His patience, we may be made partakers of the benefits of His sacred passion and death, through the same, Thy beloved Son, Jesus Christ, our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+**Placement.** TLHy, first series, p. 58. Dietrich's collect for this Sunday is [30].
 
-Dietrich's collect for this Sunday is [30].
+**Norwegian (*Kollekter, Epistler og Evangelier*, 1887, p. 137)**
+
+*Palme-Søndag.* [Palm Sunday.]
+
+> O almægtige, evige Gud! du, som ved din elskelige Søns Manddom har givet alle Mennesker Ydmygheds Exempel, og ladet ham lide Pine og Død paa Korset for vore Synder: Giv os naadig, at vi kunne kjende dette i en ret Tro, og vogte os for Synden, og ved en christelig Taalmodighed blive delagtige i hans hellige Pines og Døds Velgjerninger, ved den samme din elskelige Søn, vor Herre Jesus Christus, som med dig lever og regjerer i Hellig-Aands Enighed, een sand Gud fra Evighed og til Evighed, Amen!
+
+**Revised TLHy**
+
+> O almighty and everlasting God, who hast caused Thy beloved Son to take our nature upon Himself, that He might give all mankind the example of humility and suffer agony and death upon the cross for our sins: Mercifully grant that we may know this in a true faith, and guard ourselves against sin, and by Christian patience be made partakers of the benefits of His sacred passion and death, through the same, Thy beloved Son, our Lord Jesus Christ, who liveth and reigneth with Thee, in the unity of the Holy Ghost, one true God, world without end. Amen.
+
+**Changes from TLHy**
+- "Almighty" → "O almighty" (*O almægtige*).
+- "suffer death" → "suffer agony and death" (*lide Pine og Død*). TLHy renders *Pine og Død* "agony and death" in [33].
+- "Mercifully grant us a believing knowledge of this, and that, following the example of His patience, we may be made partakers" → "Mercifully grant that we may know this in a true faith, and guard ourselves against sin, and by Christian patience be made partakers" (*Giv os naadig, at vi kunne kjende dette i en ret Tro, og vogte os for Synden, og ved en christelig Taalmodighed blive delagtige*). TLHy omits the prayer to guard against sin, and makes Christ's patience an example to follow where the Norwegian asks for Christian patience in us. "Following the example of His patience" comes from TLHy's second-series collect (see Origin).
+- "Jesus Christ, our Lord" → "our Lord Jesus Christ" (*vor Herre Jesus Christus*).
+
+TLHy's opening clause is kept. It gives the sense of the Norwegian, in which God gives all men an example of humility in the manhood (*Manddom*) of His Son, in words taken from the second-series collect.
+
+**Origin**
+- **Latin.** The prayer reworks the Latin collect for Palm Sunday, *Omnipotens sempiterne Deus, qui humano generi ad imitandum humilitatis exemplum, Salvatorem nostrum carnem sumere et crucem subire fecisti: concede propitius, ut et patientiae ipsius habere documenta, et resurrectionis consortia mereamur*. TLHy prints the Latin collect in English as its second-series collect for the day (p. 58): "Almighty and everlasting God, who hast sent Thy Son, our Savior, Jesus Christ, to take upon Him our flesh, and to suffer death upon the cross, that all mankind should follow the example of His great humility: Mercifully grant that we may both follow the example of His patience, and also be made partakers of His resurrection…".
+- **Danish-Norwegian.** The 1812 printing (pp. 63–64) has the same prayer. It keeps the Latin's opening. Where the Latin asks to learn from Christ's patience and to share in His resurrection, it asks for true faith, watchfulness against sin and Christian patience, and for the benefits of His passion and death.
+
+[↑ Index](#3-index-of-the-collects)
+
+### [33] Maundy Thursday
+
+> O Lord Jesus Christ, we thank Thee, that of Thine infinite mercy Thou hast instituted this Thy sacrament, in which we eat Thy body and drink Thy blood: Grant us, we beseech Thee, by Thy Holy Ghost, that we may not receive this gift unworthily, but that we may confess our sins, remember Thine agony and death, believe the forgiveness of sin, and day by day grow in faith and love, until we obtain eternal salvation through Thee, who livest and reignest with the Father and the Holy Ghost, one true God, world without end. Amen.
+
+TLHy, first series ("Holy Thursday"), p. 58. "Thy Holy Spirit" → "Thy Holy Ghost" (§2.3). This is a free adaptation of Dietrich's [32], readdressed to Christ, and is revised against the German under [32].
+
+[↑ Index](#3-index-of-the-collects)
 
 ### [72] Twenty-sixth Sunday after Trinity
 
-> O almighty, eternal and merciful God, who by Thy beloved Son, our Lord and Savior Jesus Christ, hast established the kingdom of grace for us, that we might believe the forgiveness of our sins, in Thy holy Church on earth, since Thou art a God who hath no pleasure in the death of the wicked, but that the wicked turn from his way and live: We beseech Thee, graciously forgive us all our sins, through the same, Thy Son Jesus Christ, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+**Placement.** TLHy, first series, p. 80. The *Summaria* ends the Trinity season with the Twenty-fifth Sunday.
 
-The *Summaria* ends the Trinity season with the Twenty-fifth Sunday.
+**Norwegian (*Kollekter, Epistler og Evangelier*, 1887, p. 377)**
+
+*Sexogtyvende Søndag efter Trefoldigheds Fest.* [Twenty-sixth Sunday after the Feast of the Trinity.]
+
+> O almægtige, evige og barmhjertige Gud! du, som ved din elskelige Søn, vor Herre og Frelser, Jesus Christus, har oprettet Naadens Rige for os, at vi skulle tro vore Synders Forladelse her i din hellige Kirke, efterdi du er en Gud, der ikke vil nogen Synders Død, men at han skal omvende sig og leve: Vi bede dig, at du naadig vil forlade os alle vore Synder ved den samme din Søn, Jesus Christus, vor Herre, som med dig lever og regjerer i Hellig-Aands Enighed, een sand Gud fra Evighed og til Evighed, Amen!
+
+**Revised TLHy**
+
+> O almighty, eternal and merciful God, who by Thy beloved Son, our Lord and Savior Jesus Christ, hast established the kingdom of grace for us, that we might believe the forgiveness of our sins, in Thy holy Church on earth, since Thou art a God who hath no pleasure in the death of the wicked, but that the wicked turn from his way and live: We beseech Thee, graciously forgive us all our sins, through the same, Thy Son, Jesus Christ our Lord, who liveth and reigneth with Thee, in the unity of the Holy Ghost, one true God, world without end. Amen.
+
+**Changes from TLHy**
+- "Thy Son Jesus Christ" → "Thy Son, Jesus Christ our Lord" (*din Søn, Jesus Christus, vor Herre*).
+
+TLHy's "who hath no pleasure in the death of the wicked, but that the wicked turn from his way and live" is Ezekiel 33:11 in the King James words. The Norwegian follows the same verse more freely (*der ikke vil nogen Synders Død, men at han skal omvende sig og leve*, "who willeth not the death of any sinner, but that he should turn and live"), and TLHy's wording is kept (§2.2).
+
+**Origin**
+- **Danish-Norwegian.** The 1812 printing (p. 176) has the same prayer, with *ligesom du og selv er en Gud* ("even as Thou Thyself art a God") for *efterdi du er en Gud* ("since Thou art a God").
+- **TLHy's second version.** TLHy's second-series collect for the same Sunday (pp. 80–81) is another English version of this Norwegian prayer. It begins "Almighty, everlasting, and merciful God, Thou who, through Thy dear Son, our Lord and Savior Jesus Christ, hast for our sakes established the kingdom of grace that here in Thy holy Church we should believe the forgiveness of our sins," and ends "We pray Thee, graciously pardon all our sins, through the same, Thy Son, Jesus Christ, our Lord, who liveth and reigneth with Thee, in the unity of the Holy Spirit, ever one God, world without end."
+
+[↑ Index](#3-index-of-the-collects)
 
 ### [74] Day of Humiliation and Prayer
 
-> O gracious God, merciful Father, who dost bountifully forgive and show mercy unto all who truly repent of their sins: We heartily beseech Thee, dear Father, forgive us all our sins, and grant us Thy grace, that all we who call upon Thy name, each day abstain from all unrighteousness and sin, and turn unto Thee with all our hearts, that by the power of Thy Spirit we may daily be found in sincere faith and obedience, bringing forth fruits of true repentance: grant us also that, seeking and calling upon Thee in faith and confidence, we may find Thee a merciful God and Father, and be assured of Thy gracious help and blessing in every need of body and soul, until at length, by Thy grace, we obtain eternal salvation; through Thy dear Son, our Lord and Savior, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+**Placement.** TLHy, first series, p. 81. TLHy's second-series collect for this day is [75] (Appendix B).
+
+**Norwegian (*Kollekter, Epistler og Evangelier*, 1887, pp. 178–179)**
+
+*Almindelig Bededag. Paa fjerde Fredag efter Paaske.* [General Prayer Day. On the fourth Friday after Easter.]
+
+> O naadige Gud, barmhjertige, kjære Fader! du, som er meget rund til at forlade, og gjerne vil forbarme dig over alle dem, som gjøre sand Bod for Synden: Vi bede dig hjertelig, allerkjæreste fromme Fader! forlad, forlad os alle vore Synder, og giv os din Naade, at vi alle, som paakalde dit Navn, idag og hver Dag maa afstaa fra al Uretfærdighed og al Synd, og af vort ganske Hjerte saaledes omvendes til dig, at vi daglig ved din Aands Kraft maa findes retskafne i din Tro og Lydighed, altid fyldte med de rette Omvendelsens Frugter, for at, naar vi saaledes i en ret Tro og Tillid søge og paakalde dig, vi da maa finde dig som en naadig Gud og Fader, og i al vor Sag være visse paa din naadige Hjælp med Velsignelse baade til Liv og Sjæl, indtil vi omsider af din Naade blive evig salige, ved din kjære Søn, vor Herre og Frelser Jesus Christus, som med dig lever og regjerer i Hellig-Aands Enighed, een sand Gud fra Evighed og til Evighed, Amen!
+
+**Revised TLHy**
+
+> O gracious God, merciful and dear Father, who dost bountifully forgive and gladly show mercy unto all who truly repent of their sins: We heartily beseech Thee, most dear and good Father, forgive, forgive us all our sins, and grant us Thy grace, that all we who call upon Thy name may this day and every day abstain from all unrighteousness and sin, and turn unto Thee with all our hearts, that by the power of Thy Spirit we may daily be found in sincere faith and obedience, ever filled with the fruits of true repentance, so that, when we thus seek and call upon Thee in true faith and confidence, we may find Thee a merciful God and Father, and be assured of Thy gracious help and blessing in every need of body and soul, until at length, by Thy grace, we obtain eternal salvation; through Thy dear Son, our Lord and Savior Jesus Christ, who liveth and reigneth with Thee, in the unity of the Holy Ghost, one true God, world without end. Amen.
+
+**Changes from TLHy**
+- "merciful Father" → "merciful and dear Father" (*barmhjertige, kjære Fader*).
+- "and show mercy" → "and gladly show mercy" (*og gjerne vil forbarme dig*).
+- "dear Father, forgive us" → "most dear and good Father, forgive, forgive us" (*allerkjæreste fromme Fader! forlad, forlad os*).
+- "that all we who call upon Thy name, each day abstain" → "that all we who call upon Thy name may this day and every day abstain" (*idag og hver Dag maa afstaa*). TLHy also lacks the verb "may."
+- "bringing forth fruits of true repentance; grant us also that, seeking and calling upon Thee in faith and confidence," → "ever filled with the fruits of true repentance, so that, when we thus seek and call upon Thee in true faith and confidence," (*altid fyldte med de rette Omvendelsens Frugter, for at, naar vi saaledes i en ret Tro og Tillid søge og paakalde dig*). The Norwegian has no second petition: what TLHy asks for after "grant us also" is the purpose of the first. "Filled with … fruits" is the wording of Philippians 1:11.
+- "our Lord and Savior" → "our Lord and Savior Jesus Christ" (*vor Herre og Frelser Jesus Christus*).
+
+**Origin**
+- **Danish-Norwegian.** The prayer belongs to the General Prayer Day of Denmark and Norway, kept on the fourth Friday after Easter. It is in the 1812 printing (pp. 83–84), where the day's lesson is Isaiah 55:6–8, and its opening takes up verse 7 of that lesson: *saa skal han forbarme sig over ham; og til vor Gud! Thi han er meget rund til at forlade* ("and he will have mercy upon him; and to our God, for he will abundantly pardon"). The revision of 1887 modernized its language.
+
+[↑ Index](#3-index-of-the-collects)
+
+### [77] The Festival of Harvest
+
+> Almighty God, most merciful Father, who openest Thy hand, and satisfiest the desire of every living thing: We give Thee most humble and hearty thanks that Thou hast crowned the fields with Thy blessing, and hast permitted us once more to gather in the fruits of the earth; and we beseech Thee to bless and protect the living seed of Thy word sown in our hearts, that in the plenteous fruits of righteousness we may always present to Thee an acceptable thank-offering; through Jesus Christ, Thy Son, our Lord, who liveth and reigneth with Thee and the Holy Ghost, ever one God, world without end. Amen.
+
+TLHy, second series, p. 82. The *Summaria* has no harvest festival, and TLHy has no first-series collect for it. The opening is Psalm 145:16. The collect is already in the *Church Book* of 1868 (p. 64) and passed from there into the Common Service of 1888, the service with which TLHy's second series is to be used. Stratman prints it under "Thanksgiving / Harvest," before [78] (Appendix B).
+
+[↑ Index](#3-index-of-the-collects)
 
 ### [82] St. Stephen's Day
 
-> O eternal and merciful God, our heavenly Father, who didst give such grace to Saint Stephen, that for the sake of Thy word and Thy dear Son he became the first martyr after the ascension of Christ, and with patience did make intercession for his persecutors: Grant us grace to endure patiently whatever Thy divine will appointeth, that we also may love our enemies and pray for them; through the same, Thy beloved Son, Jesus Christ our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+**Placement.** TLHy, first series, pp. 47–48. It serves TLHy's first series of texts, which keeps the readings of St. Stephen's Day; the second collect (below) serves the other two. Dietrich's collect for this day is [81].
 
-Dietrich's collect for this day is [81].
+**Norwegian (*Kollekter, Epistler og Evangelier*, 1887, p. 33)**
+
+*Anden Juledag. (St. Stefans Dag). Kollekt. (Den ældre, der bruges sammen med de ældre Texter).* [Second Christmas Day (St. Stephen's Day). Collect. (The older; used together with the older texts.)]
+
+> O evige barmhjertige Gud og himmelske Fader! du, som gav den hellige Stefan den Naade, at han for dit Ords og din elskelige Søns Skyld blev den første Martyr efter Christi Himmelfart, og med Taalmodighed gjorde Bøn for sine Forfølgere: Giv ogsaa os Naade, at vi taalmodig kunne lide, hvad os tilskikkes efter din guddommelige Vilje, og at ogsaa vi kunne elske vore Fiender og Uvenner og bede for dem, — ved den samme din elskelige Søn, Jesus Christus, vor Herre, som med dig lever og regjerer i Hellig-Aands Enighed, een sand Gud fra Evighed og til Evighed, Amen!
+
+**Revised TLHy**
+
+> O eternal and merciful God, our heavenly Father, who didst give such grace to Saint Stephen, that for the sake of Thy word and Thy dear Son he became the first martyr after the ascension of Christ, and with patience did make intercession for his persecutors: Grant us also grace, that we may endure patiently whatever Thy divine will appointeth, and that we also may love our enemies and adversaries and pray for them; through the same, Thy beloved Son, Jesus Christ our Lord, who liveth and reigneth with Thee, in the unity of the Holy Ghost, one true God, world without end. Amen.
+
+**Changes from TLHy**
+- "Grant us grace to endure patiently whatever Thy divine will appointeth, that we also may love our enemies and pray for them" → "Grant us also grace, that we may endure patiently whatever Thy divine will appointeth, and that we also may love our enemies and adversaries and pray for them" (*Giv ogsaa os Naade, at vi taalmodig kunne lide, hvad os tilskikkes efter din guddommelige Vilje, og at ogsaa vi kunne elske vore Fiender og Uvenner og bede for dem*). The Norwegian asks for two things, patience and love of enemies; TLHy makes the second the purpose of the first, and omits *Uvenner*.
+
+**Origin**
+- **Danish-Norwegian.** The 1812 printing (p. 16) has the same prayer. In 1887 it was kept for use with the old series of texts, whose readings are those of St. Stephen's Day, and a new collect was provided for the two new series (the second collect, below).
+- **Scripture.** Acts 7:59–60: "Lord, lay not this sin to their charge."
+
+[↑ Index](#3-index-of-the-collects)
+
+### St. Stephen's Day, second collect
+
+**Placement.** TLHy, first series, p. 48, headed "(To be used with II and III series of texts.)". TLHy's second and third series of texts give the day Christmas readings (Isaiah 9:2–7 and Luke 2:15–20; Titus 2:11–14 and John 1:1–14); the first keeps St. Stephen's (Acts 6:8–15 and 7:54–60; Matthew 23:34–39), with [82]. Stratman does not include this collect, so it has no number, and it is not in the web text. Dietrich's collect for St. Stephen's Day is [81].
+
+**Norwegian (*Kollekter, Epistler og Evangelier*, 1887, p. 36)**
+
+*Anden Juledag. Kollekt. (Ny, der bruges sammen med de to nye Textrækker).* [Second Christmas Day. Collect. (New; used together with the two new series of texts.)]
+
+> O evige, almægtige Gud, himmelske Fader! vi takke dig, at du har aabenbaret dig i din enbaarne Søn og sendt dine Vidner med dit salige Ord, hvormed du kalder os til dit Rige: Vi bede dig, at du ved din Hellig-Aand vil oplade vore Hjerter, saa vi ikke staa dit Evangelium imod, men tro paa din enbaarne Søn, bære hans Kors og ophøie hans Navn, og saa til evig Tid blive salige, ved den samme din Søn, vor Herre Jesus Christus, som med dig lever og regjerer i Hellig-Aands Enighed, een sand Gud fra Evighed og til Evighed, Amen!
+
+**Revised TLHy**
+
+> O eternal and almighty God, heavenly Father, we thank Thee, that Thou hast revealed Thyself in Thine only-begotten Son, and hast sent Thy witnesses with Thy blessed word, whereby Thou dost call us into Thy kingdom: We beseech Thee, that Thou wouldst open our hearts by Thy Holy Ghost, that we may not resist Thy gospel, but believe in Thine only-begotten Son, bear His cross and exalt His name, and so obtain eternal salvation; through the same, Thy Son, our Lord Jesus Christ, who liveth and reigneth with Thee, in the unity of the Holy Ghost, one true God, world without end. Amen.
+
+**Changes from TLHy**
+- "Eternal and almighty God" → "O eternal and almighty God" (*O evige, almægtige Gud*).
+- "by Thy Holy Spirit that" → "by Thy Holy Ghost, that" (*ved din Hellig-Aand*; §2.3). The comma follows the Norwegian.
+- "take up His cross" → "bear His cross" (*bære hans Kors*; cf. Luke 14:27, "whosoever doth not bear his cross").
+- "magnify His name" → "exalt His name" (*ophøie hans Navn*; cf. Psalm 34:3, "let us exalt his name together").
+- "and at last obtain eternal salvation," → "and so obtain eternal salvation;" (*og saa til evig Tid blive salige*). "Obtain eternal salvation" is TLHy's settled equivalent (§2.2), but "at last" is not in the Norwegian, which has "and so."
+- "through the same, Thy beloved Son, Jesus Christ our Lord" → "through the same, Thy Son, our Lord Jesus Christ" (*ved den samme din Søn, vor Herre Jesus Christus*).
+
+**Origin**
+- **Church of Norway, 1887.** The prayer is a Norwegian composition of the 1880s. A royal resolution of 12 October 1886 gave the Church of Norway two new series of sermon texts, to be used in turn with the old one, the first from Advent 1887 and the second from Advent 1888. Under a royal resolution of 8 January 1887 the Ministry of Church and Education then had the collects of the Altar Book revised, by a committee of Jakob Sverdrup, Bishops C. P. Essendrop, A. Grimelund and J. Smitt, Professor A. Chr. Bang, Gustav M. Jensen and Andreas Hansen, the revised collects to be used from Advent 1887. The official collection printed that year gives this prayer under Second Christmas Day as new, for use with the two new series, whose readings for the day are Christmas texts. It names no author.
+- **TLHy.** TLHy's second and third series of texts are these two Norwegian series, and its heading renders the Norwegian rubric. The same English stands in the *Altar Book of the Norwegian Evangelical Lutheran Church* (1915), pp. 182–183, whose text follows TLHy.
+
+[↑ Index](#3-index-of-the-collects)
 
 ### [88] The Annunciation
 
-> O almighty God, who of Thy great mercy didst cause Thy Son to be conceived by the Holy Ghost, and to become incarnate of the blessed virgin Mary according to the angel's annunciation: Grant us by Thy grace, that our sinful conception may be purified by His holy conception, through the same, Thy beloved Son, Jesus Christ, our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+**Placement.** TLHy, first series, p. 57, "The Annunciation of the Virgin Mary," printed after the Fourth Sunday in Lent and before Palm Sunday. TLHy has no collect for the Fifth Sunday in Lent: the Annunciation takes its place, as in the Norwegian book (see Origin). Dietrich's collect for this day is [87].
 
-Dietrich's collect for this day is [87].
+**Norwegian (*Kollekter, Epistler og Evangelier*, 1887, p. 132)**
+
+*Marias Bebudelses-Dag.* [The Day of Mary's Annunciation.]
+
+> O almægtige Gud! du, som af din usigelige Naade vilde, at din Søn skulde undfanges af den Hellig-Aand og tage menneskelig Natur paa sig af den salige Jomfru Maria efter Engelens Hilsen og Budskab: Giv os naadig, at vor syndige Undfangelse kan blive ren af hans hellige Undfangelse, ved den samme din elskelige Søn, Jesus Christus, vor Herre, som med dig lever og regjerer i Hellig-Aands Enighed, een sand Gud fra Evighed og til Evighed, Amen!
+
+**Revised TLHy**
+
+> O almighty God, who of Thine ineffable grace didst cause Thy Son to be conceived by the Holy Ghost, and to become incarnate of the blessed virgin Mary according to the angel's salutation and annunciation: Grant us by Thy grace, that our sinful conception may be purified by His holy conception, through the same, Thy beloved Son, Jesus Christ, our Lord, who liveth and reigneth with Thee, in the unity of the Holy Ghost, one true God, world without end. Amen.
+
+**Changes from TLHy**
+- "of Thy great mercy" → "of Thine ineffable grace" (*af din usigelige Naade*; §2.2).
+- "according to the angel's annunciation" → "according to the angel's salutation and annunciation" (*efter Engelens Hilsen og Budskab*; cf. Luke 1:29, "what manner of salutation this should be").
+
+**Origin**
+- **Latin.** The opening answers to the Latin collect for the Annunciation, *Deus, qui de beatae Mariae Virginis utero Verbum tuum, Angelo nuntiante, carnem suscipere voluisti* [O God, who didst will that Thy Word should take flesh in the womb of the blessed Virgin Mary at the message of an angel]. The Latin goes on to ask for the help of Mary's intercession; the Norwegian asks instead that our sinful conception be cleansed by Christ's holy conception.
+- **Danish-Norwegian.** In the 1812 printing (p. 61) the Son takes human nature *af den hellige Jomfrue Maria* ("of the holy Virgin Mary"), and there is nothing of His conception by the Holy Ghost (*undfanges af den Hellig-Aand*), which the revision of 1887 added and TLHy has. A note in the same printing says that the feast is moved to the Fifth Sunday in Lent (*Henlagt til den femte Søndag i Faste*). That is why TLHy, like the Norwegian book, prints the Annunciation in place of that Sunday.
+
+[↑ Index](#3-index-of-the-collects)
 
 ### [99] Feast of All Saints
 
-> O almighty and everlasting God, who through Thine only-begotten and beloved Son, Jesus Christ, wilt sanctify all Thine elected and beloved: Give us grace to follow their faith, hope, and charity, that we together with them may obtain eternal life: through Thy Son, Jesus Christ, our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+**Placement.** TLHy, first series, p. 77, "All Saints' Day," after the Twenty-first Sunday after Trinity, where the Norwegian book also has it. The *Summaria* has no section for All Saints.
 
-The *Summaria* has no section for All Saints.
+**Norwegian (*Kollekter, Epistler og Evangelier*, 1887, pp. 349–350)**
+
+*Alle Helgens Dag.* [All Saints' Day.]
+
+> O almægtige, evige Gud! du, som vil helliggjøre alle dine Udvalgte og Elskelige i din enbaarne og elskelige Søn Jesus Christus, giv os Naade til at efterfølge deres Tro, Haab og Kjærlighed, at vi og med dem kunne blive salige ved den samme din Søn, vor Herre Jesus Christus, som med dig lever og regjerer i Hellig-Aands Enighed, een sand Gud fra Evighed og til Evighed, Amen!
+
+**Revised TLHy**
+
+> O almighty and everlasting God, who in Thine only-begotten and beloved Son, Jesus Christ, wilt sanctify all Thine elected and beloved: Give us grace to follow their faith, hope, and charity, that we together with them may be saved; through the same, Thy Son, our Lord Jesus Christ, who liveth and reigneth with Thee, in the unity of the Holy Ghost, one true God, world without end. Amen.
+
+**Changes from TLHy**
+- "who through Thine only-begotten" → "who in Thine only-begotten" (*i din enbaarne … Søn*; cf. 1 Corinthians 1:2, "sanctified in Christ Jesus").
+- "may obtain eternal life:" → "may be saved;" (*kunne blive salige*; §2.2).
+- "through Thy Son, Jesus Christ, our Lord" → "through the same, Thy Son, our Lord Jesus Christ" (*ved den samme din Søn, vor Herre Jesus Christus*).
+
+**Origin**
+- **Danish-Norwegian.** The 1812 printing (p. 162) has *lad os efterfølge deres Troe, Haab og Kierlighed* ("let us follow their faith, hope and charity"). The revision of 1887 made it a petition for grace, *giv os Naade til at efterfølge*, which TLHy translates.
+
+[↑ Index](#3-index-of-the-collects)
 
 ---
 
-## Appendix B. Stratman compared
+## Appendix B. ELH collects in Stratman
+
+Stratman marks with "(ELH)" the prayers that, in his words, "appear in Evangelical Lutheran Hymnary alone." There are four: [73], [75], [76] and [78]. None of them is Dietrich's, and the *Summaria* has no German for any of them. Each is given below with what could be found of its origin, with Stratman's text, and in a version in TLHy's idiom.
+
+**What was found.**
+
+- **[73] Last Sunday after Trinity** is a Latin Advent collect of the Old Gelasian Sacramentary, which came into English in William Bright's *Ancient Collects* (1862). ELH is the first Lutheran book found to have it. A new translation is made here from the Latin.
+- **[76] Mission Festival** goes back to a collect first printed in 1975, in the Church of England's Series 3 collects and the British *Methodist Service Book*. *Lutheran Worship* (1982) recast it as its Collect of the Day for Mission Festival, and ELH took it from there. The version here is made from that Lutheran form.
+- **[75] and [78] are in TLHy after all.** TLHy prints two series of collects: "The first Series of Collects is to be used with the first Service; the second Series, together with the Introits, to be used with the second or Common Service" (p. 45). This edition follows the first series. The second series gives a further collect after each day's Introit. [75] is TLHy's second-series collect for the Day of Humiliation and Prayer (p. 81), and [78] its collect for A Day of General or Special Thanksgiving (p. 82). Both came to TLHy from the Common Service of 1888, and ELH follows TLHy's wording of them. Stratman marks the harvest collect [77] (Appendix A), which stands in the same series on the same page, as TLHy's (H); [75] and [78] belong with it. For these two, TLHy's own text is the version in TLHy's idiom.
+
+**How the entries are given.** Each entry gives the source text where there is one, Stratman's text with its ELH number, the version in TLHy's idiom, and notes. Stratman's texts are quoted from his PDF (CC BY-NC-ND 4.0). Where ELH's own wording is quoted, it comes from search excerpts of the Internet Archive's scan of ELH; the rest of ELH's text could not be consulted, and Stratman's text stands in for it. The versions follow §2.2–2.4, with "Holy Ghost" for "Holy Spirit" and TLHy's conclusions. Because none of these prayers is Dietrich's, nothing is set in italics.
+
+### [73] Last Sunday after Trinity
+
+**Placement.** Stratman: Last Sunday after Trinity. ELH: no. 136. TLHy has no collect of its own for this day. At the Twenty-seventh Sunday after Trinity it directs: "(The Collect for the Sixth Sunday after Epiphany shall be used on the last Sunday after Trinity in each year)" (p. 81), that is, [20] (Appendix A).
+
+**Latin (Old Gelasian Sacramentary, Mohlberg no. 1128)**
+
+> Fac nos, quaesumus, domine deus noster, peruigiles atque sollicitos aduentum expectare Christi filii tui domini nostri, ut dum uenerit pulsans, non dormientis peccatis sed uigilantes et in suis inueniat laudibus exultantes: per.
+
+**Stratman (from ELH no. 136)**
+
+> Lord God, heavenly Father, make us watchful and heedful in awaiting the coming of your Son, our Lord Jesus Christ, that when he stands at the door and knocks, he may find us not sleeping in carelessness and sin, but awake and rejoicing in his appearance; through your beloved Son, Jesus Christ, our Lord, who lives and reigns with you and the Holy Spirit, one true God, now and forever. Amen.
+
+**Version in TLHy's idiom (new translation from the Latin)**
+
+> Make us, we beseech Thee, O Lord our God, watchful and heedful in awaiting the coming of Thy Son, Christ our Lord, that when He cometh and knocketh, He may find us not sleeping in sins, but watching, and rejoicing in His praises; through the same, Thy beloved Son, Jesus Christ our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+
+**Origin**
+- **Latin.** The prayer is an Advent collect of the Old Gelasian Sacramentary (Vatican, Reg. lat. 316). It stands in the Mass headed *Item alia missa* (§LXXXI), one of the Advent Masses that follow the *Orationes de aduentum domini* (§LXXX), and is no. 1128 in Mohlberg's edition. It also closes the *Orationes de adventu Domini quotidianis diebus* [Prayers of the Lord's Advent for weekdays] in Ménard's edition of the Gregorian Sacramentary (Migne, *Patrologia Latina* 78, col. 194), and it is no. 2600 in the *Corpus Orationum*. The Roman Missal of Paul VI revised it as the collect for Monday of the First Week of Advent, with *orationibus vigilantes* ("watching in prayer") in place of *non dormientes peccatis sed vigilantes* ("not sleeping in sins, but watching").
+- **Scripture.** *dum uenerit pulsans … inueniat … uigilantes* takes up Luke 12:36–37: "that when he cometh and knocketh, they may open unto him immediately. Blessed are those servants, whom the lord when he cometh shall find watching." The Vulgate has the same verbs (*cum venerit et pulsaverit … invenerit vigilantes*).
+- **English.** "Watchful and heedful in awaiting the Coming of Thy Son" is William Bright's rendering in *Ancient Collects* (2nd ed., 1862, p. 16), where the prayer follows three other Gelasian Advent collects (Mohlberg nos. 1120, 1125 and 1127). The sixth edition (1887, p. 16) reads: "Make us, we beseech Thee, O Lord our God, watchful and heedful in awaiting the Coming of Thy Son Christ our Lord; that when He shall come and knock, He may find us not sleeping in sins, but awake, and rejoicing in His praises; through the same Jesus Christ our Lord." From Bright the prayer passed into many Anglican and devotional collections.
+- **ELH.** ELH's text opens "Lord God, heavenly Father, make us watchful and heedful in awaiting the coming of Your Son, our Lord Jesus Christ, that when He shall stand at the door and knock, He may find…". It is Bright's English, given the address of the Dietrich collects ("Lord God, heavenly Father") and the words of Revelation 3:20 ("Behold, I stand at the door, and knock"). No earlier Lutheran book has been found with the prayer. The Common Service (1888) and the *Church Book* (1892) give the Twenty-seventh Sunday after Trinity no collect of its own and point instead to the Introit and Collect of the Twenty-third Sunday after Trinity; TLHy (1913) points to the collect of the Sixth Sunday after Epiphany; and the *Common Service Book* (1917) gives "Absolve, we beseech Thee, O Lord, Thy people from their offences…". *The Lutheran Hymnal* (1941) could not be checked.
+- **Stratman's website.** Stratman's posting of this prayer (*A Collection of Prayers*, 11 June 2020) gives its source as "Veit Dietrich, d. 1549, Trinity Last." It is not in the *Summaria*, which ends with the Twenty-fifth Sunday after Trinity, and his own PDF marks it (ELH).
+
+**Notes**
+- **Basis.** The version translates the Latin and keeps Bright's English wherever it renders the Latin without loss.
+- **Differences from Stratman's (ELH's) text**
+  - "Lord God, heavenly Father, make us" → "Make us, we beseech Thee, O Lord our God," restoring *domine deus noster* and *quaesumus*.
+  - "your Son, our Lord Jesus Christ" → "Thy Son, Christ our Lord" (*Christi filii tui domini nostri*).
+  - "when he stands at the door and knocks" (ELH: "when He shall stand at the door and knock") → "when He cometh and knocketh" (*dum uenerit pulsans*), in the King James words of Luke 12:36.
+  - "not sleeping in carelessness and sin" → "not sleeping in sins" (*non dormientis peccatis*).
+  - "awake" → "watching" (*uigilantes*), as in Luke 12:37, "shall find watching."
+  - "rejoicing in his appearance" → "rejoicing in His praises" (*in suis … laudibus exultantes*). Stratman's website has "appearing."
+- **Conclusion.** The Latin closes *per* ("through…"), and the Son has already been named, so the conclusion is that of §2.4 (b), as in Bright's "through the same Jesus Christ our Lord."
+- **Spelling.** Mohlberg prints the manuscript's spellings: *peruigiles*, *aduentum*, *uenerit* and *uigilantes* (= *pervigiles*, *adventum*, *venerit*, *vigilantes*), and *dormientis* for *dormientes*.
+
+[↑ Index](#3-index-of-the-collects)
+
+### [75] Day of Humiliation and Prayer, second collect
+
+**Placement.** Stratman prints it after [74], under the Day of Humiliation and Prayer. ELH: no. 141. TLHy: the second-series collect for the Day of Humiliation and Prayer (p. 81). TLHy's first-series collect for the day is [74] (Appendix A).
+
+**Stratman (from ELH no. 141)**
+
+> Almighty and most merciful God, our heavenly Father, your compassion has no end; you are long-suffering, gracious, and full of goodness and truth, forgiving iniquity, transgression and sin. We have sinned and done perversely, we have forsaken you and offended you, against you, you only, have we sinned and done this evil in your sight. O Lord, do not remember previous sins. Let your tender mercies speedily forgive us, for we have been brought very low. Help us, O God of our salvation, and purge away our sins, for the glory of your holy name, and for the sake of your dear Son, our Savior, Jesus Christ, who lives and reigns with you and the Holy Spirit, one true God, now and forever. Amen.
+
+**Version in TLHy's idiom: TLHy's own text (second series, p. 81)**
+
+> Almighty and most merciful God, our heavenly Father, of whose compassion there is no end, who art long-suffering, gracious, and plenteous in goodness and truth; forgiving iniquity, transgression and sin: We have sinned and done perversely, we have forsaken and grievously offended Thee; against Thee, Thee only, have we sinned and done evil in Thy sight; but we beseech Thee, O Lord, remember not against us former iniquities; let Thy tender mercies speedily forgive us, for we are brought very low; help us, O God of our salvation, and purge away our sins, for the glory of Thy holy name, for the sake of Thy dear Son, our Savior, Jesus Christ, who liveth and reigneth with Thee and the Holy Ghost, ever one God, world without end. Amen.
+
+**Origin**
+- **The Common Service (1888).** The earliest printing found is the Common Service of 1888, where the prayer is the collect for "A Day of Humiliation and Prayer." From there it passed into the *Church Book* (1892) and the *Common Service Book* (1917). The *Church Book* of 1868 has no collect of its own for the day: "Any of the Litany Collects may be used on this Day." No Latin or German original has been found. The prayer is a cento of Scripture in King James and Prayer Book wording:
+  - "long-suffering, gracious, and plenteous in goodness and truth; forgiving iniquity, transgression and sin": Exodus 34:6–7, with "plenteous in goodness and truth" from the Prayer Book Psalter (Psalm 86:15);
+  - "of whose compassion there is no end": compare Lamentations 3:22, "his compassions fail not";
+  - "We have sinned and done perversely": 1 Kings 8:47;
+  - "we have forsaken … Thee": compare the day's Introit, Isaiah 1:4, "They have forsaken the Lord";
+  - "against Thee, Thee only, have we sinned and done evil in Thy sight": Psalm 51:4;
+  - "remember not against us former iniquities; let Thy tender mercies speedily prevent us, for we are brought very low; help us, O God of our salvation, … and purge away our sins, for the glory of Thy … name": Psalm 79:8–9.
+- **TLHy.** TLHy reprints the Common Service's text with two changes of wording. "Speedily prevent us," the King James wording of Psalm 79:8, becomes "speedily forgive us," and "and for the sake of Thy dear Son" becomes "for the sake of Thy dear Son."
+- **ELH.** ELH follows TLHy, not the Common Service: it reads "let Your tender mercies speedily forgive us." It also has "we have forsaken You and offended You," without "grievously," and "our previous sins" for "former iniquities."
+
+**Notes**
+- **Text.** TLHy's text is printed as it stands, as [77] is in Appendix A. It already has "Holy Ghost" (§2.3). The print reads "perverseiy," with damaged type.
+- **"Forgive."** In Psalm 79:8 "prevent" means "come before," that is, come to meet us. TLHy's "forgive" changes the sense of the verse, but it is TLHy's reading and is kept.
+
+[↑ Index](#3-index-of-the-collects)
+
+### [76] Mission Festival
+
+**Placement.** Stratman: Mission Festival. ELH: no. 140 (Mission Festival). TLHy has no Mission Festival.
+
+**English original (1975)**
+
+> Almighty God, who called your Church to witness that you were in Christ reconciling men to yourself: help us so to proclaim the good news of your love, that all who hear it may be reconciled to you; through him who died for us …
+
+**Stratman (from ELH no. 140)**
+
+> Almighty God, since you have called your Church to witness that in Christ you reconciled us to yourself, grant that by your Holy Spirit we may proclaim the good news of your salvation, that all who hear it may receive the gift of salvation; through Jesus Christ, your Son, our Lord, who lives and reigns with you and the Holy Spirit, one true God, now and forever. Amen.
+
+**Version in TLHy's idiom**
+
+> Almighty God, who hast called Thy Church to witness that in Christ Thou hast reconciled us to Thyself: Grant, we beseech Thee, that by Thy Holy Ghost we may proclaim the gospel of Thy salvation, that all who hear it may receive the gift of salvation; through Jesus Christ, Thy Son, our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+
+**Origin**
+- **1975.** The prayer first appears in two British books of 1975: the Church of England Liturgical Commission's *Collects to Accompany the Lectionary for Holy Communion, Series 3*, and the *Methodist Service Book*. It rests on 2 Corinthians 5:18–19: "God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation; to wit, that God was in Christ, reconciling the world unto himself." Later books read "reconciling the world to yourself."
+- ***Lutheran Worship* (1982).** LW recast it as the Collect of the Day for Mission Festival: "Almighty God, since you have called your Church to witness that in Christ you reconciled us to yourself, grant that by your Holy Spirit…". Where the 1975 prayer has "you were in Christ reconciling" (verse 19), the Lutheran speaks of the finished act, "in Christ you reconciled us to yourself" (verse 18). For "the good news of your love" it has "the good news of your salvation." And where the 1975 prayer asks that all who hear "may be reconciled to you," the Lutheran asks that they "may receive the gift of salvation." LW also prints the prayer, with "you have reconciled," among its prayers, under "Missionary work."
+- **ELH.** ELH no. 140 is LW's collect ("Almighty God, since You have called Your Church to witness that in Christ You reconciled…"), and Stratman's text agrees with it.
+- **Later.** *Lutheran Service Book* (2006) prints a shortened form among its prayers, "For the mission of the Church" (no. 104): "Almighty God, You have called Your Church to witness that in Christ You have reconciled us to Yourself. Grant that…".
+
+**Notes**
+- **Basis.** The version renders the Lutheran form (LW, ELH), which is the prayer that ELH and Stratman print. The 1975 original differs from it in substance (above) and is not followed.
+- **Collect shape.** "Since you have called…, grant that…" becomes TLHy's relative clause and petition: "who hast called…: Grant, we beseech Thee, that…" (§2.2).
+- **Scripture.** "Thou hast reconciled us to Thyself" follows 2 Corinthians 5:18, "who hath reconciled us to himself." "The gospel of Thy salvation" gives "the good news of your salvation" in the words of Ephesians 1:13, "the gospel of your salvation." TLHy's collects never say "good news"; they speak of "the gospel of Thy Son" and "the light of Thy gospel."
+- **Holy Ghost.** "By your Holy Spirit" → "by Thy Holy Ghost" (§2.3).
+- **Conclusion.** ELH already closes "through Jesus Christ, your Son, our Lord." That close is kept and continued in TLHy's form, as in §2.4 (d).
+
+[↑ Index](#3-index-of-the-collects)
+
+### [78] Day of General or Special Thanksgiving
+
+**Placement.** Stratman prints it after [77], under "Thanksgiving / Harvest." ELH: no. 143 (Harvest, Thanksgiving). TLHy: the second-series collect for "A Day of General or Special Thanksgiving" (p. 82). TLHy has no first-series collect for this day.
+
+**Stratman (from ELH no. 143)**
+
+> Almighty God, our heavenly Father, your mercies are new to us every morning, and, though we have in no way deserved your goodness, you abundantly provide for all our needs of body and soul: Give us, we pray, your Holy Spirit, that we may heartily acknowledge your merciful goodness toward us, give thanks for all your benefits, and serve you in willing obedience; through Jesus Christ, your Son, our Lord, who lives and reigns with you and the Holy Spirit, one true God, now and forever. Amen.
+
+**Version in TLHy's idiom: TLHy's own text (second series, p. 82), corrected**
+
+> Almighty God, our heavenly Father, whose mercies are new unto us every morning, and who, though we have in no wise deserved Thy goodness, dost abundantly provide for all our wants of body and soul: Give us, we pray Thee, Thy Holy Ghost, that we may heartily acknowledge Thy merciful goodness toward us, give thanks for all Thy benefits, and serve Thee in willing obedience; through Jesus Christ, Thy Son, our Lord, who liveth and reigneth with Thee and the Holy Ghost, ever one God, world without end. Amen.
+
+**Changes from TLHy**
+- "soul; Give us we pray Thee," → "soul: Give us, we pray Thee,". The print omits the comma after "us," which the Common Service and the *Church Book* have; the colon before the petition is TLHy's practice elsewhere (as in [75] and [77]) and the Common Service's reading.
+- "Thy Holy Spirit" → "Thy Holy Ghost" (§2.3).
+
+**Origin**
+- **The Common Service (1888).** The earliest printing found is the Common Service of 1888, where the prayer is the collect for "A Day of General or Special Thanksgiving." From there it passed into the *Church Book* (1892), TLHy (1913) and the *Common Service Book* (1917). No Latin or German original has been found.
+- **Its predecessor.** In the *Church Book* it replaced the thanksgiving collect of 1868, and its petition reworks that collect's: "O Lord God, heavenly Father, from whom we receive abundantly all good gifts, and by whom we are daily defended against all evil; Grant us, we beseech Thee, Thy Holy Spirit, that acknowledging with our whole heart this Thy goodness, we may now and evermore thank and praise Thy loving kindness and tender mercy…" (p. 65).
+- **Scripture and Catechism.** "Whose mercies are new unto us every morning" is Lamentations 3:22–23 ("his compassions fail not. They are new every morning"). The rest echoes Luther's explanation of the First Article, that God *mit aller Notdurft und Nahrung dieses Leibes und Lebens reichlich und täglich versorget … ohn all mein Verdienst und Würdigkeit; des alles ich ihm zu danken und zu loben und dafür zu dienen und gehorsam zu sein schuldig bin* [richly and daily provides me with all that I need to support this body and life … without any merit or worthiness in me; for all which it is my duty to thank and praise, to serve and obey Him].
+- **ELH.** ELH no. 143 follows TLHy ("Almighty God, our heavenly Father, Your mercies are new to us every morning…," ending "…and serve You in willing obedience; through Jesus Christ, Your Son, our Lord…"). Stratman's text agrees with it.
+
+[↑ Index](#3-index-of-the-collects)
+
+---
+
+## Appendix C. Stratman compared
 
 Paul C. Stratman's *The Collects of Veit Dietrich* gives every collect in modern English. It was used throughout as a check on accuracy, never as a source of wording.
 
@@ -2644,7 +3080,7 @@ Paul C. Stratman's *The Collects of Veit Dietrich* gives every collect in modern
 
 ---
 
-## Appendix C. Observations on the 1548 edition
+## Appendix D. Observations on the 1548 edition
 
 1. **Misprinted Scripture references in headings.**
    - Second Sunday in Advent, "Luce am 22." for Luke 21 (p. 16; [2]).
@@ -2677,6 +3113,10 @@ Paul C. Stratman's *The Collects of Veit Dietrich* gives every collect in modern
 
 - Veit Dietrich, *Summaria Christlicher lehr/für das junge volck…* (1548), Google Books digitization (uploaded PDF, 306 pp.).
 - *The Lutheran Hymnary* (1913), collects of Veit Dietrich, as given in "Collects of Veit Dietrich," The Orthodox Lutheran Ministerium (project document).
+- *The Lutheran Hymnary* (Minneapolis: Augsburg Publishing House, 1913), printed edition, "Collects for the Church Year," pp. 45–82, for the texts in Appendix A and TLHy's second-series collects cited there, from the page images and text of the Internet Archive's scan: [Internet Archive](https://archive.org/details/lutheranhymnary00synogoog).
+- *Kollekter, Epistler og Evangelier, almindelig Kirkebøn, den nye Skriftemaals-Ordning og den nye Høimesse-Liturgi* (Kristiania: Dybwad, 1887), part I: the royal resolutions of 12 October 1886 and 8 January 1887 printed before the collects, and pp. 33–383, for the Norwegian originals in Appendix A, read from the page images: [Nasjonalbiblioteket](https://urn.nb.no/URN:NBN:no-nb_digibok_2013100708168).
+- *Forordnet Alter-Bog udi Dannemark og Norge* (printing of 1812), pp. 16–178, for the older forms of the collects in Appendix A, from the scan's text, with the passages quoted checked against the page images: [Nasjonalbiblioteket](https://urn.nb.no/URN:NBN:no-nb_digibok_2015060948012).
+- *Altar Book of the Norwegian Evangelical Lutheran Church: A Translation* (Minneapolis: Augsburg Publishing House, 1915), pp. 182–183: [Internet Archive](https://archive.org/details/altarbookofnorwe00norw).
 - Paul C. Stratman, *The Collects of Veit Dietrich* (CC BY-NC-ND 4.0), project file `veit-dietrich-collects-ce3.pdf`.
 - Paul C. Stratman, "NEW! Summary of Christian Teaching by Veit Dietrich," *A Collection of Prayers* (1 April 2026), for the year of first publication (1546): [acollectionofprayers.com](https://acollectionofprayers.com/2026/04/01/new-summary-of-christian-teaching-by-veit-dietrich/).
 - Rudolf Endres, "Neudörf(f)er, Johann der Ältere," *Neue Deutsche Biographie* 19 (1999), 106: [Deutsche Biographie](https://www.deutsche-biographie.de/118844105.html).
@@ -2685,3 +3125,21 @@ Paul C. Stratman's *The Collects of Veit Dietrich* gives every collect in modern
 - Johannes Bugenhagen, *Ein Schrift an andere Pastoren und Prediger von der jetzigen Kriegsrüstung* (1546): [Brill, Sixteenth-Century Pamphlets Online](https://primarysources.brillonline.com/browse/sixteenth-century-pamphlets-online/ein-schrift-an-andere-pastoren-und-prediger-von-der-jetzigen-kriegsrustung;flugschriftenpart2ii00118); [Pitts Theology Library](https://digital.pitts.emory.edu/s/digital-collections/item/6926).
 - Danish pericope for *Fastelavn* (Quinquagesima), Matthew 3:13–17: [Predigten, Universität Zürich, Matthäus 3 (dänische Perikopenordnung)](https://www.theologie.uzh.ch/predigten/pt/category/bibel/nt/matthaeus/kapitel-03-chapter-03-matthaeus/); [Kaj Munk, *Prædiken til Fastelavn* (1927), text Matthew 3:13–17](https://www.studieudgaven.kajmunk.aau.dk/pub/downloads/PDF/20090217212045.pdf).
 - Scripture in English is quoted from the King James Version.
+
+For Appendix B:
+
+- *The Lutheran Hymnary* (Minneapolis: Augsburg Publishing House, 1913), "Collects for the Church Year," pp. 45–82, for TLHy's two series, its rubric for the last Sunday after Trinity (p. 81) and its second-series collects [75] (p. 81) and [78] (p. 82), read from the page images: [Internet Archive](https://archive.org/details/lutheranhymnary00synogoog).
+- *Evangelical Lutheran Hymnary*, prepared by the Worship Committee of the Evangelical Lutheran Synod (1996), nos. 136, 140, 141 and 143, from search excerpts of the Internet Archive's lending copy (`evangelicalluthe0000evan`).
+- L. C. Mohlberg, ed., *Liber sacramentorum Romanae aeclesiae ordinis anni circuli (Sacramentarium Gelasianum)* (Rome, 1960), §§LXXX–LXXXI, nos. 1120–1128: [Internet Archive](https://archive.org/details/mohlberg1960libersacramentorum).
+- *Liber sacramentorum*, ed. H. Ménard, in J.-P. Migne, *Patrologia Latina* 78 (Paris, 1849), col. 194: [Latin Wikisource](https://la.wikisource.org/wiki/Liber_sacramentorum).
+- *Corpus Orationum*, no. 2600 (vol. IV, p. 105): [Usuarium](https://usuarium.elte.hu/corpusorationum/2600).
+- *Missale Romanum* (2002), collect for Monday of the First Week of Advent, with the Gelasian text compared: John Zuhlsdorf, "1st Week of Advent: Monday," *Fr. Z's Blog* (3 December 2007): [wdtprs.com](https://wdtprs.com/2007/12/1st-week-of-advent-monday-2/).
+- William Bright, *Ancient Collects and Other Prayers*, 2nd ed. (Oxford: J. H. and Jas. Parker, 1862), p. 16: [Internet Archive](https://archive.org/details/ancientcollects00briggoog); 6th ed. (Oxford and London: Parker, 1887), p. 16: [Internet Archive](https://archive.org/details/ancientcollecsot0000will).
+- *The Common Service for the Use of Evangelical Lutheran Congregations* (1888), "Introits and Collects," pp. 88–92: [Internet Archive](https://archive.org/details/commonservicefor0000unse).
+- *Church Book for the Use of Evangelical Lutheran Congregations* (1868), "Versicles and Collects," pp. 64–65: [Internet Archive](https://archive.org/details/chuse00gene); edition of 1892, "Introits and Collects," pp. 85–88: [Internet Archive](https://archive.org/details/churchbookforus00coungoog).
+- *Common Service Book of the Lutheran Church* (1917), Twenty-seventh Sunday after Trinity: [Internet Archive](https://archive.org/details/commonserviceb00unknuoft).
+- Church of England Liturgical Commission, *Collects to Accompany the Lectionary for Holy Communion, Series 3: A Report* (London: SPCK, 1975), and *The Methodist Service Book* (London: Methodist Publishing House, 1975), from search excerpts of the Internet Archive's copies (`collectstoaccomp0000chur`, `methodistservice0000meth`).
+- *Lutheran Worship* (St. Louis: Concordia, 1982), Propers of the Day, Mission Festival, and the prayer for missionary work, from search excerpts of the Internet Archive's lending copy (`lutheranworship0000vari`).
+- *Lutheran Service Book* (St. Louis: Concordia, 2006), Prayers, Intercessions, and Thanksgivings, no. 104, "For the mission of the Church": [Concordia Publishing House, large-print sample](https://s3.amazonaws.com/cph-org-assets/media/pdf/031202.pdf).
+- Paul C. Stratman, "Make Us Watchful and Heedful," *A Collection of Prayers* (11 June 2020): [acollectionofprayers.com](https://acollectionofprayers.com/2020/06/11/make-us-watchful-and-heedful/).
+- Martin Luther, *Small Catechism*, explanation of the First Article.
