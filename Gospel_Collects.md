@@ -2399,7 +2399,7 @@ These are the collects that Stratman marks (H), as TLHy's own. They are printed 
 
 Most of them are not Dietrich's, and the *Summaria* has no German for them. Two are Dietrich's prayers in another form, and are given here unrevised, for reference. TLHy's Quinquagesima collect, [24], is Dietrich's [10], which this edition restores to the Sunday after New Year and revises there. TLHy's Maundy Thursday collect, [33], is a free adaptation of Dietrich's [32], and is revised against it under [32].
 
-The texts are those of the Orthodox Lutheran Ministerium's web text, except [24], [33] and [77], which are read from the page images of the printed hymnary (1913). The harvest collect [77] is not in the web text: it belongs to TLHy's second series of collects (p. 82), on which see Appendix B. Only [24] and [33] have "Holy Spirit"; there it is changed to "Holy Ghost" (§2.3), and the change is noted. "Thy Spirit" ([14]) and "the power of Thy Spirit" ([74]) stand as printed.
+The texts are those of the Orthodox Lutheran Ministerium's web text, except [24], [33] and [77], which are read from the page images of the printed hymnary (1913). For [24] and [33] the web text agrees with the print, apart from a closing "Amen," in [24]. The harvest collect [77] is not in the web text: it belongs to TLHy's second series of collects (p. 82), on which see Appendix B. Only [24] and [33] have "Holy Spirit"; there it is changed to "Holy Ghost" (§2.3), and the change is noted. "Thy Spirit" ([14]) and "the power of Thy Spirit" ([74]) stand as printed.
 
 ### [7] First Sunday of Christmas
 
