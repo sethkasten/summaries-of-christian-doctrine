@@ -33,7 +33,7 @@ PDF pp. 1–2 are Google's digitization notices. The book opens with the title p
 
 - **54 collects are in TLHy.** Each is printed as *Revised TLHy*, with its changes listed. They include [10], which TLHy prints at Quinquagesima and which is restored here to the Sunday after New Year, and Maundy Thursday, where TLHy's collect ([33]) proves to be a free adaptation of Dietrich's [32].
 - **26 collects are not in TLHy.** Each is given in a *New translation* in TLHy's idiom. Among them is Dietrich's own Quinquagesima collect [23].
-- **TLHy's other collects**, which do not come from Dietrich, are given in Appendix A, so that every TLHy day can be found. With them, for reference, are TLHy's own texts of [24] and [33] (Dietrich's [10] and [32]) and the harvest collect [77], so that Appendix A holds every collect Stratman marks (H), and TLHy's second collect for St. Stephen's Day, which Stratman omits.
+- **TLHy's other collects**, which do not come from Dietrich, are given in Appendix A, so that every TLHy day can be found. With them, for reference, are TLHy's own texts of [24] and [33] (Dietrich's [10] and [32]) and the harvest collect [77], so that Appendix A holds every collect Stratman marks (H), and TLHy's second collect for St. Stephen's Day, which Stratman omits and which is revised against its Norwegian original of 1887.
 - **The four collects Stratman marks (ELH)**, [73], [75], [76] and [78], are given in Appendix B with their origins and a version in TLHy's idiom. Two of them, [75] and [78], prove to be in TLHy after all, in its second series of collects.
 - The front matter (title page and dedicatory letter) precedes Part I, and Part III gives the two prayers appended at the end of the book.
 
@@ -223,7 +223,7 @@ Stratman's modern versions are compared with the German in Appendix C.
 | [80] | [St. Thomas, Apostle (December 21)](#80-st-thomas-apostle-december-21) | p. 236 | New translation |
 | [81] | [St. Stephen, Martyr (December 26)](#81-st-stephen-martyr-december-26) | pp. 32–33 | New translation |
 | [82] | [St. Stephen's Day](#82-st-stephens-day) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
-| — | [St. Stephen's Day, second collect](#st-stephens-day-second-collect) (TLHy) | — | TLHy only; not Dietrich; not in Stratman (Appendix A) |
+| — | [St. Stephen's Day, second collect](#st-stephens-day-second-collect) (TLHy) | — | Not Dietrich; not in Stratman; revised against the Norwegian of 1887 (Appendix A) |
 | [83] | [The Holy Innocents (December 28)](#83-the-holy-innocents-december-28) | pp. 239–240 | New translation |
 | | *January to March* | | |
 | [84] | [The Conversion of St. Paul (January 25)](#84-the-conversion-of-st-paul-january-25) | p. 243 | New translation |
@@ -1999,7 +1999,7 @@ The young household folk who are not yet in the estate of marriage should direct
 
 **Dietrich's heading (PDF p. 30):** *An Sanct Steffans tag/in den geschichten/wie er vmb des Herrn Christi willen/von Juden ist gesteyniget worden/Acto. 7.* [On St. Stephen's Day, from the Acts: how he was stoned by the Jews for the sake of the Lord Christ. Acts 7.] In the 1548 book this section stands in the Christmas sequence, between Christmas and the Sunday after Christmas.
 
-**Assignment:** St. Stephen's Day, beside TLHy's present collect, which is not Dietrich's ("O eternal and merciful God, our heavenly Father, who didst give such grace to Saint Stephen…"; Appendix A, [82]). TLHy also has a second collect for the day, for use with its second and third series of texts, which give Christmas readings (Appendix A).
+**Assignment:** St. Stephen's Day, beside TLHy's present collect, which is not Dietrich's ("O eternal and merciful God, our heavenly Father, who didst give such grace to Saint Stephen…"; Appendix A, [82]). TLHy also has a second collect for the day, a Norwegian prayer of 1887 for use with its second and third series of texts, which give Christmas readings (Appendix A).
 
 **German (PDF pp. 32–33)**
 
@@ -2396,7 +2396,7 @@ After Dietrich's address to the reader (pp. 297–298, signed "Veit Dietrich."),
 
 ## Appendix A. TLHy collects not taken from Dietrich
 
-These are the collects that Stratman marks (H), as TLHy's own, together with one TLHy collect that he omits, the second collect for St. Stephen's Day. They are printed here as TLHy has them, so that every TLHy day can be found in this edition. Where Dietrich has a collect for the same day, it is given in Part I or II, and the index (§3) lists both.
+These are the collects that Stratman marks (H), as TLHy's own, together with one TLHy collect that he omits, the second collect for St. Stephen's Day. They are printed here as TLHy has them, so that every TLHy day can be found in this edition. The one exception is the second St. Stephen's Day collect: its Norwegian original (1887) has been found, and it is given with that original and revised against it, as Dietrich's collects are revised against his German. Where Dietrich has a collect for the same day, it is given in Part I or II, and the index (§3) lists both.
 
 Most of them are not Dietrich's, and the *Summaria* has no German for them. Two are Dietrich's prayers in another form, and are given here unrevised, for reference. TLHy's Quinquagesima collect, [24], is Dietrich's [10], which this edition restores to the Sunday after New Year and revises there. TLHy's Maundy Thursday collect, [33], is a free adaptation of Dietrich's [32], and is revised against it under [32].
 
@@ -2482,9 +2482,31 @@ Dietrich's collect for this day is [81].
 
 ### St. Stephen's Day, second collect
 
-> Eternal and almighty God, heavenly Father, we thank Thee, that Thou hast revealed Thyself in Thine only-begotten Son, and hast sent Thy witnesses with Thy blessed word, whereby Thou dost call us into Thy kingdom: We beseech Thee, that Thou wouldst open our hearts by Thy Holy Ghost that we may not resist Thy gospel, but believe in Thine only-begotten Son, take up His cross and magnify His name, and at last obtain eternal salvation, through the same, Thy beloved Son, Jesus Christ our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+**Placement.** TLHy, first series, p. 48, headed "(To be used with II and III series of texts.)". TLHy's second and third series of texts give the day Christmas readings (Isaiah 9:2–7 and Luke 2:15–20; Titus 2:11–14 and John 1:1–14); the first keeps St. Stephen's (Acts 6:8–15 and 7:54–60; Matthew 23:34–39), with [82]. Stratman does not include this collect, so it has no number, and it is not in the web text. Dietrich's collect for St. Stephen's Day is [81].
 
-TLHy, first series, p. 48, headed "(To be used with II and III series of texts.)". TLHy's second and third series of texts give the day Christmas readings (Isaiah 9:2–7 and Luke 2:15–20; Titus 2:11–14 and John 1:1–14), while the first keeps St. Stephen's (Acts 6–7; Matthew 23:34–39), with [82]. "Thy Holy Spirit" → "Thy Holy Ghost" (§2.3). Stratman does not include this collect, so it has no number, and it is not in the web text. Dietrich's collect for St. Stephen's Day is [81].
+**Norwegian (*Kollekter, Epistler og Evangelier*, 1887, p. 36)**
+
+*Anden Juledag. Kollekt. (Ny, der bruges sammen med de to nye Textrækker).* [Second Christmas Day. Collect. (New; used together with the two new series of texts.)]
+
+> O evige, almægtige Gud, himmelske Fader! vi takke dig, at du har aabenbaret dig i din enbaarne Søn og sendt dine Vidner med dit salige Ord, hvormed du kalder os til dit Rige: Vi bede dig, at du ved din Hellig-Aand vil oplade vore Hjerter, saa vi ikke staa dit Evangelium imod, men tro paa din enbaarne Søn, bære hans Kors og ophøie hans Navn, og saa til evig Tid blive salige, ved den samme din Søn, vor Herre Jesus Christus, som med dig lever og regjerer i Hellig-Aands Enighed, een sand Gud fra Evighed og til Evighed, Amen!
+
+**Revised TLHy**
+
+> O eternal and almighty God, heavenly Father, we thank Thee, that Thou hast revealed Thyself in Thine only-begotten Son, and hast sent Thy witnesses with Thy blessed word, whereby Thou dost call us into Thy kingdom: We beseech Thee, that Thou wouldst open our hearts by Thy Holy Ghost, that we may not resist Thy gospel, but believe in Thine only-begotten Son, bear His cross and exalt His name, and so obtain eternal salvation; through the same, Thy Son, our Lord Jesus Christ, who with Thee liveth and reigneth in the unity of the Holy Ghost, one true God, world without end. Amen.
+
+**Changes from TLHy**
+- "Eternal and almighty God" → "O eternal and almighty God" (*O evige, almægtige Gud*).
+- "by Thy Holy Spirit that" → "by Thy Holy Ghost, that" (*ved din Hellig-Aand*; §2.3). The comma follows the Norwegian.
+- "take up His cross" → "bear His cross" (*bære hans Kors*; cf. Luke 14:27, "whosoever doth not bear his cross").
+- "magnify His name" → "exalt His name" (*ophøie hans Navn*; cf. Psalm 34:3, "let us exalt his name together").
+- "and at last obtain eternal salvation," → "and so obtain eternal salvation;" (*og saa til evig Tid blive salige*). "Obtain eternal salvation" is TLHy's settled equivalent (§2.2), but "at last" is not in the Norwegian, which has "and so."
+- "through the same, Thy beloved Son, Jesus Christ our Lord, who liveth and reigneth with Thee and the Holy Ghost" → "through the same, Thy Son, our Lord Jesus Christ, who with Thee liveth and reigneth in the unity of the Holy Ghost" (*ved den samme din Søn, vor Herre Jesus Christus, som med dig lever og regjerer i Hellig-Aands Enighed*). The prayer has its own conclusion, which is restored, as Dietrich's own closes are (§2.4 g). *fra Evighed og til Evighed* is "world without end," as throughout TLHy.
+
+**Origin**
+- **Church of Norway, 1887.** The prayer is a Norwegian composition of the 1880s. A royal resolution of 12 October 1886 gave the Church of Norway two new series of sermon texts, to be used in turn with the old one, the first from Advent 1887 and the second from Advent 1888. Under a royal resolution of 8 January 1887 the Ministry of Church and Education then had the collects of the Altar Book revised, by a committee of Jakob Sverdrup, Bishops C. P. Essendrop, A. Grimelund and J. Smitt, Professor A. Chr. Bang, Gustav M. Jensen and Andreas Hansen, the revised collects to be used from Advent 1887. The official collection printed that year gives this prayer under Second Christmas Day as new, for use with the two new series, whose readings for the day are Christmas texts. It names no author.
+- **TLHy.** TLHy's second and third series of texts are these two Norwegian series, and its heading renders the Norwegian rubric. The same English stands in the *Altar Book of the Norwegian Evangelical Lutheran Church* (1915), pp. 182–183, whose text follows TLHy.
+
+**Note.** The Norwegian is given in roman type with its spelling and punctuation. The Fraktur double hyphen is printed "-", and the line-break hyphen in *enbaarne* is closed up. The bidding printed before the collect, *Lader os alle bede* ("Let us all pray"), is not part of the prayer.
 
 ### [88] The Annunciation
 
@@ -2851,6 +2873,8 @@ Paul C. Stratman's *The Collects of Veit Dietrich* gives every collect in modern
 - Veit Dietrich, *Summaria Christlicher lehr/für das junge volck…* (1548), Google Books digitization (uploaded PDF, 306 pp.).
 - *The Lutheran Hymnary* (1913), collects of Veit Dietrich, as given in "Collects of Veit Dietrich," The Orthodox Lutheran Ministerium (project document).
 - *The Lutheran Hymnary* (Minneapolis: Augsburg Publishing House, 1913), printed edition, pp. 48, 54, 58 and 82, for the second St. Stephen's Day collect, [24], [33] and [77] in Appendix A, read from the page images: [Internet Archive](https://archive.org/details/lutheranhymnary00synogoog).
+- *Kollekter, Epistler og Evangelier, almindelig Kirkebøn, den nye Skriftemaals-Ordning og den nye Høimesse-Liturgi* (Kristiania: Dybwad, 1887), part I, the royal resolutions of 12 October 1886 and 8 January 1887 printed before the collects, and p. 36 (*Anden Juledag*), for the Norwegian original of the second St. Stephen's Day collect, read from the page images: [Nasjonalbiblioteket](https://urn.nb.no/URN:NBN:no-nb_digibok_2013100708168).
+- *Altar Book of the Norwegian Evangelical Lutheran Church: A Translation* (Minneapolis: Augsburg Publishing House, 1915), pp. 182–183: [Internet Archive](https://archive.org/details/altarbookofnorwe00norw).
 - Paul C. Stratman, *The Collects of Veit Dietrich* (CC BY-NC-ND 4.0), project file `veit-dietrich-collects-ce3.pdf`.
 - Paul C. Stratman, "NEW! Summary of Christian Teaching by Veit Dietrich," *A Collection of Prayers* (1 April 2026), for the year of first publication (1546): [acollectionofprayers.com](https://acollectionofprayers.com/2026/04/01/new-summary-of-christian-teaching-by-veit-dietrich/).
 - Rudolf Endres, "Neudörf(f)er, Johann der Ältere," *Neue Deutsche Biographie* 19 (1999), 106: [Deutsche Biographie](https://www.deutsche-biographie.de/118844105.html).
