@@ -16,8 +16,9 @@ Every Gospel collect in Dietrich's *Summaria* is given here in its original Germ
 - [Part II. Sanctorale](#part-ii-sanctorale): [November and December](#november-and-december) · [January to March](#january-to-march) · [May to July](#may-to-july) · [August to October](#august-to-october)
 - [Part III. Appended prayers](#part-iii-appended-prayers-pdf-pp-299303)
 - [Appendix A. TLHy collects not taken from Dietrich](#appendix-a-tlhy-collects-not-taken-from-dietrich)
-- [Appendix B. Stratman compared](#appendix-b-stratman-compared)
-- [Appendix C. Observations on the 1548 edition](#appendix-c-observations-on-the-1548-edition)
+- [Appendix B. ELH collects in Stratman](#appendix-b-elh-collects-in-stratman)
+- [Appendix C. Stratman compared](#appendix-c-stratman-compared)
+- [Appendix D. Observations on the 1548 edition](#appendix-d-observations-on-the-1548-edition)
 - [Sources](#sources)
 
 ---
@@ -33,6 +34,7 @@ PDF pp. 1–2 are Google's digitization notices. The book opens with the title p
 - **54 collects are in TLHy.** Each is printed as *Revised TLHy*, with its changes listed. They include [10], which TLHy prints at Quinquagesima and which is restored here to the Sunday after New Year, and Maundy Thursday, where TLHy's collect ([33]) proves to be a free adaptation of Dietrich's [32].
 - **26 collects are not in TLHy.** Each is given in a *New translation* in TLHy's idiom. Among them is Dietrich's own Quinquagesima collect [23].
 - **TLHy's other collects**, which do not come from Dietrich, are given in Appendix A, so that every TLHy day can be found.
+- **The four collects Stratman marks (ELH)**, [73], [75], [76] and [78], are given in Appendix B with their origins and a version in TLHy's idiom. Two of them, [75] and [78], prove to be in TLHy after all, in its second series of collects.
 - The front matter (title page and dedicatory letter) precedes Part I, and Part III gives the two prayers appended at the end of the book.
 
 ---
@@ -120,7 +122,7 @@ The two appended prayers in Part III end with their own conclusions, and nothing
 5. **Congregational form**, where Dietrich prays in the first person singular.
 6. **Changes from TLHy** (revised texts) or **Notes** (new translations).
 
-Stratman's modern versions are compared with the German in Appendix B.
+Stratman's modern versions are compared with the German in Appendix C.
 
 ---
 
@@ -207,7 +209,11 @@ Stratman's modern versions are compared with the German in Appendix B.
 | [70] | [Twenty-fourth Sunday after Trinity](#70-twenty-fourth-sunday-after-trinity) | p. 224 | Revised TLHy |
 | [71] | [Twenty-fifth Sunday after Trinity](#71-twenty-fifth-sunday-after-trinity) | p. 228 | Revised TLHy |
 | [72] | [Twenty-sixth Sunday after Trinity](#72-twenty-sixth-sunday-after-trinity) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
+| [73] | [Last Sunday after Trinity](#73-last-sunday-after-trinity) (ELH) | — | Not Dietrich; new version from the Latin (Appendix B) |
 | [74] | [Day of Humiliation and Prayer](#74-day-of-humiliation-and-prayer) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
+| [75] | [Day of Humiliation and Prayer, second collect](#75-day-of-humiliation-and-prayer-second-collect) (ELH; TLHy second series) | — | Not Dietrich; TLHy's text (Appendix B) |
+| [76] | [Mission Festival](#76-mission-festival) (ELH) | — | Not Dietrich; new version in TLHy's idiom (Appendix B) |
+| [78] | [Day of General or Special Thanksgiving](#78-day-of-general-or-special-thanksgiving) (ELH; TLHy second series) | — | Not Dietrich; TLHy's text, corrected (Appendix B) |
 | | **Part II. Sanctorale** | | |
 | | *November and December* | | |
 | [79] | [St. Andrew, Apostle (November 30)](#79-st-andrew-apostle-november-30) | pp. 232–233 | New translation |
@@ -235,7 +241,7 @@ Stratman's modern versions are compared with the German in Appendix B.
 | [98] | [Sts. Simon and Jude, Apostles (October 28)](#98-sts-simon-and-jude-apostles-october-28) | p. 296 | New translation |
 | [99] | [Feast of All Saints](#99-feast-of-all-saints) (TLHy) | — | TLHy only; not Dietrich (Appendix A) |
 
-"Revised TLHy" marks a TLHy collect corrected against the German; "New translation" marks a Dietrich collect that TLHy lacks. TLHy's Quinquagesima collect (Stratman's [24]) is [10], and its Maundy Thursday collect ([33]) is revised under [32].
+"Revised TLHy" marks a TLHy collect corrected against the German; "New translation" marks a Dietrich collect that TLHy lacks. TLHy's Quinquagesima collect (Stratman's [24]) is [10], and its Maundy Thursday collect ([33]) is revised under [32]. "(ELH)" marks the four collects that Stratman assigns to ELH alone (Appendix B).
 
 ---
 
@@ -2388,7 +2394,7 @@ After Dietrich's address to the reader (pp. 297–298, signed "Veit Dietrich."),
 
 These collects are in TLHy, as given in the Orthodox Lutheran Ministerium's web text, but they are not Dietrich's, and the *Summaria* has no German for them. They are printed here as TLHy has them, so that every TLHy day can be found in this edition. None of them has "Holy Spirit," so none needed the change described in §2.3; "Thy Spirit" ([14]) and "the power of Thy Spirit" ([74]) stand as printed. Where Dietrich has a collect for the same day, it is given in Part I or II, and the index (§3) lists both.
 
-Two further TLHy collects are not repeated here. TLHy's Quinquagesima collect (Stratman's [24]) is Dietrich's [10], restored to the Sunday after New Year. TLHy's Maundy Thursday collect ([33]) is a free adaptation of Dietrich's [32], and is revised against it under [32]. Stratman also marks a harvest thanksgiving collect, [77], as TLHy's; it is not among the web texts used here.
+Two further TLHy collects are not repeated here. TLHy's Quinquagesima collect (Stratman's [24]) is Dietrich's [10], restored to the Sunday after New Year. TLHy's Maundy Thursday collect ([33]) is a free adaptation of Dietrich's [32], and is revised against it under [32]. Stratman also marks a harvest thanksgiving collect, [77], as TLHy's; it is not among the web texts used here. It belongs to TLHy's second series of collects (p. 82), on which see Appendix B.
 
 ### [7] First Sunday of Christmas
 
@@ -2424,7 +2430,7 @@ Dietrich's collect for this Sunday is [16].
 
 > O merciful and everlasting God, heavenly Father: We thank Thee that Thou hast revealed unto us the glory of Thy Son, and let the light of Thy gospel shine upon us: We pray Thee, guide us by this light that we may walk diligently as Christians in all good works, ever be strengthened by Thy grace, and conduct our lives in all godliness; through the same, Thy beloved Son, Jesus Christ our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
 
-The *Summaria* has no section for this Sunday.
+The *Summaria* has no section for this Sunday. A rubric at TLHy's Twenty-seventh Sunday after Trinity appoints "the Collect for the Sixth Sunday after Epiphany" for the last Sunday after Trinity in each year (p. 81); see [73] in Appendix B.
 
 ### [31] Palm Sunday
 
@@ -2441,6 +2447,8 @@ The *Summaria* ends the Trinity season with the Twenty-fifth Sunday.
 ### [74] Day of Humiliation and Prayer
 
 > O gracious God, merciful Father, who dost bountifully forgive and show mercy unto all who truly repent of their sins: We heartily beseech Thee, dear Father, forgive us all our sins, and grant us Thy grace, that all we who call upon Thy name, each day abstain from all unrighteousness and sin, and turn unto Thee with all our hearts, that by the power of Thy Spirit we may daily be found in sincere faith and obedience, bringing forth fruits of true repentance: grant us also that, seeking and calling upon Thee in faith and confidence, we may find Thee a merciful God and Father, and be assured of Thy gracious help and blessing in every need of body and soul, until at length, by Thy grace, we obtain eternal salvation; through Thy dear Son, our Lord and Savior, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+
+TLHy's second-series collect for this day is [75] (Appendix B).
 
 ### [82] St. Stephen's Day
 
@@ -2462,7 +2470,142 @@ The *Summaria* has no section for All Saints.
 
 ---
 
-## Appendix B. Stratman compared
+## Appendix B. ELH collects in Stratman
+
+Stratman marks with "(ELH)" the prayers that, in his words, "appear in Evangelical Lutheran Hymnary alone." There are four: [73], [75], [76] and [78]. None of them is Dietrich's, and the *Summaria* has no German for any of them. Each is given below with what could be found of its origin, with Stratman's text, and in a version in TLHy's idiom.
+
+**What was found.**
+
+- **[73] Last Sunday after Trinity** is a Latin Advent collect of the Old Gelasian Sacramentary, which came into English in William Bright's *Ancient Collects* (1862). ELH is the first Lutheran book found to have it. A new translation is made here from the Latin.
+- **[76] Mission Festival** goes back to a collect first printed in 1975, in the Church of England's Series 3 collects and the British *Methodist Service Book*. *Lutheran Worship* (1982) recast it as its Collect of the Day for Mission Festival, and ELH took it from there. The version here is made from that Lutheran form.
+- **[75] and [78] are in TLHy after all.** TLHy prints two series of collects: "The first Series of Collects is to be used with the first Service; the second Series, together with the Introits, to be used with the second or Common Service" (p. 44). This edition follows the first series. The second series gives a further collect after each day's Introit. [75] is TLHy's second-series collect for the Day of Humiliation and Prayer (p. 81), and [78] its collect for A Day of General or Special Thanksgiving (p. 82). Both came to TLHy from the Common Service of 1888, and ELH follows TLHy's wording of them. Stratman marks the harvest collect [77], which stands in the same series on the same page, as TLHy's (H); [75] and [78] belong with it. For these two, TLHy's own text is the version in TLHy's idiom.
+
+**How the entries are given.** Each entry gives the source text where there is one, Stratman's text with its ELH number, the version in TLHy's idiom, and notes. Stratman's texts are quoted from his PDF (CC BY-NC-ND 4.0). Where ELH's own wording is quoted, it comes from search excerpts of the Internet Archive's scan of ELH; the rest of ELH's text could not be consulted, and Stratman's text stands in for it. The versions follow §2.2–2.4, with "Holy Ghost" for "Holy Spirit" and TLHy's conclusions. Because none of these prayers is Dietrich's, nothing is set in italics.
+
+### [73] Last Sunday after Trinity
+
+**Placement.** Stratman: Last Sunday after Trinity. ELH: no. 136. TLHy has no collect of its own for this day. At the Twenty-seventh Sunday after Trinity it directs: "(The Collect for the Sixth Sunday after Epiphany shall be used on the last Sunday after Trinity in each year)" (p. 81), that is, [20] (Appendix A).
+
+**Latin (Old Gelasian Sacramentary, Mohlberg no. 1128)**
+
+> Fac nos, quaesumus, domine deus noster, peruigiles atque sollicitos aduentum expectare Christi filii tui domini nostri, ut dum uenerit pulsans, non dormientis peccatis sed uigilantes et in suis inueniat laudibus exultantes: per.
+
+**Stratman (from ELH no. 136)**
+
+> Lord God, heavenly Father, make us watchful and heedful in awaiting the coming of your Son, our Lord Jesus Christ, that when he stands at the door and knocks, he may find us not sleeping in carelessness and sin, but awake and rejoicing in his appearance; through your beloved Son, Jesus Christ, our Lord, who lives and reigns with you and the Holy Spirit, one true God, now and forever. Amen.
+
+**Version in TLHy's idiom (new translation from the Latin)**
+
+> Make us, we beseech Thee, O Lord our God, watchful and heedful in awaiting the coming of Thy Son, Christ our Lord, that when He cometh and knocketh, He may find us not sleeping in sins, but watching, and rejoicing in His praises; through the same, Thy beloved Son, Jesus Christ our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+
+**Origin**
+- **Latin.** The prayer is an Advent collect of the Old Gelasian Sacramentary (Vatican, Reg. lat. 316). It stands in the Mass headed *Item alia missa* (§LXXXI), one of the Advent Masses that follow the *Orationes de aduentum domini* (§LXXX), and is no. 1128 in Mohlberg's edition. It also closes the *Orationes de adventu Domini quotidianis diebus* [Prayers of the Lord's Advent for weekdays] in Ménard's edition of the Gregorian Sacramentary (Migne, *Patrologia Latina* 78, col. 194), and it is no. 2600 in the *Corpus Orationum*. The Roman Missal of Paul VI revised it as the collect for Monday of the First Week of Advent, with *orationibus vigilantes* ("watching in prayer") in place of *non dormientes peccatis sed vigilantes* ("not sleeping in sins, but watching").
+- **Scripture.** *dum uenerit pulsans … inueniat … uigilantes* takes up Luke 12:36–37: "that when he cometh and knocketh, they may open unto him immediately. Blessed are those servants, whom the lord when he cometh shall find watching." The Vulgate has the same verbs (*cum venerit et pulsaverit … invenerit vigilantes*).
+- **English.** "Watchful and heedful in awaiting the Coming of Thy Son" is William Bright's rendering in *Ancient Collects* (2nd ed., 1862, p. 16), where the prayer follows three other Gelasian Advent collects (Mohlberg nos. 1120, 1125 and 1127). The sixth edition (1887, p. 16) reads: "Make us, we beseech Thee, O Lord our God, watchful and heedful in awaiting the Coming of Thy Son Christ our Lord; that when He shall come and knock, He may find us not sleeping in sins, but awake, and rejoicing in His praises; through the same Jesus Christ our Lord." From Bright the prayer passed into many Anglican and devotional collections.
+- **ELH.** ELH's text opens "Lord God, heavenly Father, make us watchful and heedful in awaiting the coming of Your Son, our Lord Jesus Christ, that when He shall stand at the door and knock, He may find…". It is Bright's English, given the address of the Dietrich collects ("Lord God, heavenly Father") and the words of Revelation 3:20 ("Behold, I stand at the door, and knock"). No earlier Lutheran book has been found with the prayer. The Common Service (1888) and the *Church Book* (1892) give the Twenty-seventh Sunday after Trinity no collect of its own and point instead to the Introit and Collect of the Twenty-third Sunday after Trinity; TLHy (1913) points to the collect of the Sixth Sunday after Epiphany; and the *Common Service Book* (1917) gives "Absolve, we beseech Thee, O Lord, Thy people from their offences…". *The Lutheran Hymnal* (1941) could not be checked.
+- **Stratman's website.** Stratman's posting of this prayer (*A Collection of Prayers*, 11 June 2020) gives its source as "Veit Dietrich, d. 1549, Trinity Last." It is not in the *Summaria*, which ends with the Twenty-fifth Sunday after Trinity, and his own PDF marks it (ELH).
+
+**Notes**
+- **Basis.** The version translates the Latin and keeps Bright's English wherever it renders the Latin without loss.
+- **Differences from Stratman's (ELH's) text**
+  - "Lord God, heavenly Father, make us" → "Make us, we beseech Thee, O Lord our God," restoring *domine deus noster* and *quaesumus*.
+  - "your Son, our Lord Jesus Christ" → "Thy Son, Christ our Lord" (*Christi filii tui domini nostri*).
+  - "when he stands at the door and knocks" (ELH: "when He shall stand at the door and knock") → "when He cometh and knocketh" (*dum uenerit pulsans*), in the King James words of Luke 12:36.
+  - "not sleeping in carelessness and sin" → "not sleeping in sins" (*non dormientis peccatis*).
+  - "awake" → "watching" (*uigilantes*), as in Luke 12:37, "shall find watching."
+  - "rejoicing in his appearance" → "rejoicing in His praises" (*in suis … laudibus exultantes*). Stratman's website has "appearing."
+- **Conclusion.** The Latin closes *per* ("through…"), and the Son has already been named, so the conclusion is that of §2.4 (b), as in Bright's "through the same Jesus Christ our Lord."
+- **Spelling.** Mohlberg prints the manuscript's spellings: *peruigiles*, *aduentum*, *uenerit* and *uigilantes* (= *pervigiles*, *adventum*, *venerit*, *vigilantes*), and *dormientis* for *dormientes*.
+
+[↑ Index](#3-index-of-the-collects)
+
+### [75] Day of Humiliation and Prayer, second collect
+
+**Placement.** Stratman prints it after [74], under the Day of Humiliation and Prayer. ELH: no. 141. TLHy: the second-series collect for the Day of Humiliation and Prayer (p. 81). TLHy's first-series collect for the day is [74] (Appendix A).
+
+**Stratman (from ELH no. 141)**
+
+> Almighty and most merciful God, our heavenly Father, your compassion has no end; you are long-suffering, gracious, and full of goodness and truth, forgiving iniquity, transgression and sin. We have sinned and done perversely, we have forsaken you and offended you, against you, you only, have we sinned and done this evil in your sight. O Lord, do not remember previous sins. Let your tender mercies speedily forgive us, for we have been brought very low. Help us, O God of our salvation, and purge away our sins, for the glory of your holy name, and for the sake of your dear Son, our Savior, Jesus Christ, who lives and reigns with you and the Holy Spirit, one true God, now and forever. Amen.
+
+**Version in TLHy's idiom: TLHy's own text (second series, p. 81)**
+
+> Almighty and most merciful God, our heavenly Father, of whose compassion there is no end, who art long-suffering, gracious, and plenteous in goodness and truth; forgiving iniquity, transgression and sin: We have sinned and done perversely, we have forsaken and grievously offended Thee; against Thee, Thee only, have we sinned and done evil in Thy sight; but we beseech Thee, O Lord, remember not against us former iniquities; let Thy tender mercies speedily forgive us, for we are brought very low; help us, O God of our salvation, and purge away our sins, for the glory of Thy holy name, for the sake of Thy dear Son, our Savior, Jesus Christ, who liveth and reigneth with Thee and the Holy Ghost, ever one God, world without end. Amen.
+
+**Origin**
+- **The Common Service (1888).** The earliest printing found is the Common Service of 1888, where the prayer is the collect for "A Day of Humiliation and Prayer." From there it passed into the *Church Book* (1892) and the *Common Service Book* (1917). The *Church Book* of 1868 has no collect of its own for the day: "Any of the Litany Collects may be used on this Day." No Latin or German original has been found. The prayer is a cento of Scripture in King James and Prayer Book wording:
+  - "long-suffering, gracious, and plenteous in goodness and truth; forgiving iniquity, transgression and sin": Exodus 34:6–7, with "plenteous in goodness and truth" from the Prayer Book Psalter (Psalm 86:15);
+  - "of whose compassion there is no end": compare Lamentations 3:22, "his compassions fail not";
+  - "We have sinned and done perversely": 1 Kings 8:47;
+  - "we have forsaken … Thee": compare the day's Introit, Isaiah 1:4, "They have forsaken the Lord";
+  - "against Thee, Thee only, have we sinned and done evil in Thy sight": Psalm 51:4;
+  - "remember not against us former iniquities; let Thy tender mercies speedily prevent us, for we are brought very low; help us, O God of our salvation, … and purge away our sins, for the glory of Thy … name": Psalm 79:8–9.
+- **TLHy.** TLHy reprints the Common Service's text with two changes of wording. "Speedily prevent us," the King James wording of Psalm 79:8, becomes "speedily forgive us," and "and for the sake of Thy dear Son" becomes "for the sake of Thy dear Son."
+- **ELH.** ELH follows TLHy, not the Common Service: it reads "let Your tender mercies speedily forgive us." It also has "we have forsaken You and offended You," without "grievously," and "our previous sins" for "former iniquities."
+
+**Notes**
+- **Text.** TLHy's text is printed as it stands, as in Appendix A. It already has "Holy Ghost" (§2.3). The print reads "perverseiy," with damaged type.
+- **"Forgive."** In Psalm 79:8 "prevent" means "come before," that is, come to meet us. TLHy's "forgive" changes the sense of the verse, but it is TLHy's reading and is kept.
+
+[↑ Index](#3-index-of-the-collects)
+
+### [76] Mission Festival
+
+**Placement.** Stratman: Mission Festival. ELH: no. 140 (Mission Festival). TLHy has no Mission Festival.
+
+**English original (1975)**
+
+> Almighty God, who called your Church to witness that you were in Christ reconciling men to yourself: help us so to proclaim the good news of your love, that all who hear it may be reconciled to you; through him who died for us …
+
+**Stratman (from ELH no. 140)**
+
+> Almighty God, since you have called your Church to witness that in Christ you reconciled us to yourself, grant that by your Holy Spirit we may proclaim the good news of your salvation, that all who hear it may receive the gift of salvation; through Jesus Christ, your Son, our Lord, who lives and reigns with you and the Holy Spirit, one true God, now and forever. Amen.
+
+**Version in TLHy's idiom**
+
+> Almighty God, who hast called Thy Church to witness that in Christ Thou hast reconciled us to Thyself: Grant, we beseech Thee, that by Thy Holy Ghost we may proclaim the gospel of Thy salvation, that all who hear it may receive the gift of salvation; through Jesus Christ, Thy Son, our Lord, who liveth and reigneth with Thee and the Holy Ghost, one true God, world without end. Amen.
+
+**Origin**
+- **1975.** The prayer first appears in two British books of 1975: the Church of England Liturgical Commission's *Collects to Accompany the Lectionary for Holy Communion, Series 3*, and the *Methodist Service Book*. It rests on 2 Corinthians 5:18–19: "God, who hath reconciled us to himself by Jesus Christ, and hath given to us the ministry of reconciliation; to wit, that God was in Christ, reconciling the world unto himself." Later books read "reconciling the world to yourself."
+- ***Lutheran Worship* (1982).** LW recast it as the Collect of the Day for Mission Festival: "Almighty God, since you have called your Church to witness that in Christ you reconciled us to yourself, grant that by your Holy Spirit…". Where the 1975 prayer has "you were in Christ reconciling" (verse 19), the Lutheran speaks of the finished act, "in Christ you reconciled us to yourself" (verse 18). For "the good news of your love" it has "the good news of your salvation." And where the 1975 prayer asks that all who hear "may be reconciled to you," the Lutheran asks that they "may receive the gift of salvation." LW also prints the prayer, with "you have reconciled," among its prayers, under "Missionary work."
+- **ELH.** ELH no. 140 is LW's collect ("Almighty God, since You have called Your Church to witness that in Christ You reconciled…"), and Stratman's text agrees with it.
+- **Later.** *Lutheran Service Book* (2006) prints a shortened form among its prayers, "For the mission of the Church" (no. 104): "Almighty God, You have called Your Church to witness that in Christ You have reconciled us to Yourself. Grant that…".
+
+**Notes**
+- **Basis.** The version renders the Lutheran form (LW, ELH), which is the prayer that ELH and Stratman print. The 1975 original differs from it in substance (above) and is not followed.
+- **Collect shape.** "Since you have called…, grant that…" becomes TLHy's relative clause and petition: "who hast called…: Grant, we beseech Thee, that…" (§2.2).
+- **Scripture.** "Thou hast reconciled us to Thyself" follows 2 Corinthians 5:18, "who hath reconciled us to himself." "The gospel of Thy salvation" gives "the good news of your salvation" in the words of Ephesians 1:13, "the gospel of your salvation." TLHy's collects never say "good news"; they speak of "the gospel of Thy Son" and "the light of Thy gospel."
+- **Holy Ghost.** "By your Holy Spirit" → "by Thy Holy Ghost" (§2.3).
+- **Conclusion.** ELH already closes "through Jesus Christ, your Son, our Lord." That close is kept and continued in TLHy's form, as in §2.4 (d).
+
+[↑ Index](#3-index-of-the-collects)
+
+### [78] Day of General or Special Thanksgiving
+
+**Placement.** Stratman prints it after [77], under "Thanksgiving / Harvest." ELH: no. 143 (Harvest, Thanksgiving). TLHy: the second-series collect for "A Day of General or Special Thanksgiving" (p. 82). TLHy has no first-series collect for this day.
+
+**Stratman (from ELH no. 143)**
+
+> Almighty God, our heavenly Father, your mercies are new to us every morning, and, though we have in no way deserved your goodness, you abundantly provide for all our needs of body and soul: Give us, we pray, your Holy Spirit, that we may heartily acknowledge your merciful goodness toward us, give thanks for all your benefits, and serve you in willing obedience; through Jesus Christ, your Son, our Lord, who lives and reigns with you and the Holy Spirit, one true God, now and forever. Amen.
+
+**Version in TLHy's idiom: TLHy's own text (second series, p. 82), corrected**
+
+> Almighty God, our heavenly Father, whose mercies are new unto us every morning, and who, though we have in no wise deserved Thy goodness, dost abundantly provide for all our wants of body and soul: Give us, we pray Thee, Thy Holy Ghost, that we may heartily acknowledge Thy merciful goodness toward us, give thanks for all Thy benefits, and serve Thee in willing obedience; through Jesus Christ, Thy Son, our Lord, who liveth and reigneth with Thee and the Holy Ghost, ever one God, world without end. Amen.
+
+**Changes from TLHy**
+- "soul; Give us we pray Thee," → "soul: Give us, we pray Thee,". The print omits the comma after "us," which the Common Service and the *Church Book* have; the colon before the petition is TLHy's practice elsewhere (as in [75] and [77]) and the Common Service's reading.
+- "Thy Holy Spirit" → "Thy Holy Ghost" (§2.3).
+
+**Origin**
+- **The Common Service (1888).** The earliest printing found is the Common Service of 1888, where the prayer is the collect for "A Day of General or Special Thanksgiving." From there it passed into the *Church Book* (1892), TLHy (1913) and the *Common Service Book* (1917). No Latin or German original has been found.
+- **Its predecessor.** In the *Church Book* it replaced the thanksgiving collect of 1868, and its petition reworks that collect's: "O Lord God, heavenly Father, from whom we receive abundantly all good gifts, and by whom we are daily defended against all evil; Grant us, we beseech Thee, Thy Holy Spirit, that acknowledging with our whole heart this Thy goodness, we may now and evermore thank and praise Thy loving kindness and tender mercy…" (p. 65).
+- **Scripture and Catechism.** "Whose mercies are new unto us every morning" is Lamentations 3:22–23 ("his compassions fail not. They are new every morning"). The rest echoes Luther's explanation of the First Article, that God *mit aller Notdurft und Nahrung dieses Leibes und Lebens reichlich und täglich versorget … ohn all mein Verdienst und Würdigkeit; des alles ich ihm zu danken und zu loben und dafür zu dienen und gehorsam zu sein schuldig bin* [richly and daily provides me with all that I need to support this body and life … without any merit or worthiness in me; for all which it is my duty to thank and praise, to serve and obey Him].
+- **ELH.** ELH no. 143 follows TLHy ("Almighty God, our heavenly Father, Your mercies are new to us every morning…," ending "…and serve You in willing obedience; through Jesus Christ, Your Son, our Lord…"). Stratman's text agrees with it.
+
+[↑ Index](#3-index-of-the-collects)
+
+---
+
+## Appendix C. Stratman compared
 
 Paul C. Stratman's *The Collects of Veit Dietrich* gives every collect in modern English. It was used throughout as a check on accuracy, never as a source of wording.
 
@@ -2644,7 +2787,7 @@ Paul C. Stratman's *The Collects of Veit Dietrich* gives every collect in modern
 
 ---
 
-## Appendix C. Observations on the 1548 edition
+## Appendix D. Observations on the 1548 edition
 
 1. **Misprinted Scripture references in headings.**
    - Second Sunday in Advent, "Luce am 22." for Luke 21 (p. 16; [2]).
@@ -2685,3 +2828,21 @@ Paul C. Stratman's *The Collects of Veit Dietrich* gives every collect in modern
 - Johannes Bugenhagen, *Ein Schrift an andere Pastoren und Prediger von der jetzigen Kriegsrüstung* (1546): [Brill, Sixteenth-Century Pamphlets Online](https://primarysources.brillonline.com/browse/sixteenth-century-pamphlets-online/ein-schrift-an-andere-pastoren-und-prediger-von-der-jetzigen-kriegsrustung;flugschriftenpart2ii00118); [Pitts Theology Library](https://digital.pitts.emory.edu/s/digital-collections/item/6926).
 - Danish pericope for *Fastelavn* (Quinquagesima), Matthew 3:13–17: [Predigten, Universität Zürich, Matthäus 3 (dänische Perikopenordnung)](https://www.theologie.uzh.ch/predigten/pt/category/bibel/nt/matthaeus/kapitel-03-chapter-03-matthaeus/); [Kaj Munk, *Prædiken til Fastelavn* (1927), text Matthew 3:13–17](https://www.studieudgaven.kajmunk.aau.dk/pub/downloads/PDF/20090217212045.pdf).
 - Scripture in English is quoted from the King James Version.
+
+For Appendix B:
+
+- *The Lutheran Hymnary* (Minneapolis: Augsburg Publishing House, 1913), "Collects for the Church Year," pp. 44–82, for TLHy's two series, its rubric for the last Sunday after Trinity (p. 81) and its second-series collects [75] (p. 81) and [78] (p. 82), read from the page images: [Internet Archive](https://archive.org/details/lutheranhymnary00synogoog).
+- *Evangelical Lutheran Hymnary*, prepared by the Worship Committee of the Evangelical Lutheran Synod (1996), nos. 136, 140, 141 and 143, from search excerpts of the Internet Archive's lending copy (`evangelicalluthe0000evan`).
+- L. C. Mohlberg, ed., *Liber sacramentorum Romanae aeclesiae ordinis anni circuli (Sacramentarium Gelasianum)* (Rome, 1960), §§LXXX–LXXXI, nos. 1120–1128: [Internet Archive](https://archive.org/details/mohlberg1960libersacramentorum).
+- *Liber sacramentorum*, ed. H. Ménard, in J.-P. Migne, *Patrologia Latina* 78 (Paris, 1849), col. 194: [Latin Wikisource](https://la.wikisource.org/wiki/Liber_sacramentorum).
+- *Corpus Orationum*, no. 2600 (vol. IV, p. 105): [Usuarium](https://usuarium.elte.hu/corpusorationum/2600).
+- *Missale Romanum* (2002), collect for Monday of the First Week of Advent, with the Gelasian text compared: John Zuhlsdorf, "1st Week of Advent: Monday," *Fr. Z's Blog* (3 December 2007): [wdtprs.com](https://wdtprs.com/2007/12/1st-week-of-advent-monday-2/).
+- William Bright, *Ancient Collects and Other Prayers*, 2nd ed. (Oxford: J. H. and Jas. Parker, 1862), p. 16: [Internet Archive](https://archive.org/details/ancientcollects00briggoog); 6th ed. (Oxford and London: Parker, 1887), p. 16: [Internet Archive](https://archive.org/details/ancientcollecsot0000will).
+- *The Common Service for the Use of Evangelical Lutheran Congregations* (1888), "Introits and Collects," pp. 88–92: [Internet Archive](https://archive.org/details/commonservicefor0000unse).
+- *Church Book for the Use of Evangelical Lutheran Congregations* (1868), "Versicles and Collects," pp. 64–65: [Internet Archive](https://archive.org/details/chuse00gene); edition of 1892, "Introits and Collects," pp. 85–88: [Internet Archive](https://archive.org/details/churchbookforus00coungoog).
+- *Common Service Book of the Lutheran Church* (1917), Twenty-seventh Sunday after Trinity: [Internet Archive](https://archive.org/details/commonserviceb00unknuoft).
+- Church of England Liturgical Commission, *Collects to Accompany the Lectionary for Holy Communion, Series 3: A Report* (London: SPCK, 1975), and *The Methodist Service Book* (London: Methodist Publishing House, 1975), from search excerpts of the Internet Archive's copies (`collectstoaccomp0000chur`, `methodistservice0000meth`).
+- *Lutheran Worship* (St. Louis: Concordia, 1982), Propers of the Day, Mission Festival, and the prayer for missionary work, from search excerpts of the Internet Archive's lending copy (`lutheranworship0000vari`).
+- *Lutheran Service Book* (St. Louis: Concordia, 2006), Prayers, Intercessions, and Thanksgivings, no. 104, "For the mission of the Church": [Concordia Publishing House, large-print sample](https://s3.amazonaws.com/cph-org-assets/media/pdf/031202.pdf).
+- Paul C. Stratman, "Make Us Watchful and Heedful," *A Collection of Prayers* (11 June 2020): [acollectionofprayers.com](https://acollectionofprayers.com/2020/06/11/make-us-watchful-and-heedful/).
+- Martin Luther, *Small Catechism*, explanation of the First Article.
