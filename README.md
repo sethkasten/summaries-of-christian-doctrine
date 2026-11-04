@@ -1,2 +1,2 @@
-# summary-of-the-christian-year
-A translation of Veit Dietrich's Summary of the Christian Year, annotated
+# Summaries of Christian Doctrine
+Dietrich, Veit. Summaries of Christian Doctrine, transcribed, translated, and annotated, along with all the Gospel Collects in the idiom of TLHy, revised against the original text, to which is appended the TLHy and ELH Gospel Collects not found in Dietrich, revised and rendered in the idiom of TLHy
